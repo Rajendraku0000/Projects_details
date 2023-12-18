@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return render_template("new_index.html", prediction=None)
+    return render_template("new_index.html", prediction="")
 
 @app.route("/predict", methods=["POST"])
 def predict_salary():
