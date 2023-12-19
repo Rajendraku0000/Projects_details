@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inventory Manegment Machine Learning System </title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+
+    .container {
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-header text-center">
+          <h2>Inventory Managment</h2>
+        </div>
+        <div class="card-body">
+          <form id="salaryForm" method="post" action="/predict">
+            <div class="form-group">
+              <label for="experience">Shop Location:</label><br>
+              <select  name="store_value" class="w-100 py-2">
+              <option value=None >Select Location</option>
+              <option value=1 > Pratap Nagar</option>
+              <option value=2> Sitapura </option>
+              <option value=3> Jagatpura </option>
+              <option value=4> Malviya Nagar </option>
+              <option value=5> Gandi Nagar </option>
+              <option value=6> Raja Park </option>
+              <option value=7> Durgapura</option>
+              <option value=8> Gopalpura </option>
+              <option value=9> Maheshnagar </option>
+              <option value=10> Tonk Phatak </option>
+              <option value=11> Gurjar ki Thadi </option>
+              <option value=12> Shyam Nagar </option>
+              <option value=13> Mansarovar </option>
+              <option value=14> Nirman Nagar </option>
+              <option value=15> Vaishali Nagar </option>       </select>
+              <br>
+              <br>
+              <label for="experience">Select Product :</label><br>
+              <select  name="items" class="w-100 py-2">
+              <option value=None >Select Product</option>
+              <option value=1 > Battery</option>
+              <option value=2> CORD </option>
+              <option value=3> Cable </option>
+              <option value=4>Carrying Case </option>
+              <option value=6>Controller Card </option>
+              <option value=7> Docking</option>
+              <option value=8> Graphic Card </option>
+              <option value=9> HDD_NB_DT </option>
+              <option value=10> Keyboard_DT </option>
+              <option value=11> Keyboard_NBK </option>
+              <option value=12> LCD </option>
+              <option value=13> MOUSE </option>
+              <option value=14> Memory </option>
+              <option value=15> Network Card </option>
+              <option value=16> Nic Card </option>
+              <option value=17> ODD </option>
+              <option value=18> ODD Mechanical </option>
+              <option value=19> ODM Mechanical </option>
+              <option value=20> Projector </option>
+              <option value=21> SSD_NB_DT </option>
+              <option value=22> Security Lock </option>
+              <option value=23> Speaker </option>
+              <option value=24> Wireless </option>
+              <option value=25> Adaptar </option>      </select>
+              <br>
+              <br>
+
+              <div class="form-group">
+                <label for="experience">Enter Total Sales:</label>
+                <input type="number" class="w-100 py-2" name="Quantity" id="experience" placeholder="Total Sales Quantity" required>
+              </div>
+
+              <div class="form-group">
+                <label for="experience">Enter Pending Orders:</label>
+                <input type="number" class="w-100 py-2" name="pending_order" id="experience" placeholder="Total Pending Orders" required>
+              </div>
+
+              
+            </div>
+            <br>
+            <input type="submit" value="Predict" class= "w-100 py-2">
+          </form>
+          <br>
+          {% if prediction is defined %}
+            <p>Your Product Demand is : {{ prediction }}</p>
+          {% endif %}
+
+          <div id="result" class="mt-3 text-center"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Bootstrap JS and dependencies -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,3000 @@
+Store_Code,Product,Sales_Quantity,Pending_Order,Demand
+7,ODD,13,148,Good
+1,ODM Mechanical,13,1,Bad
+2,ODD Mechanical,13,16,Bad
+13,Battery,13,11,Bad
+12,MOUSE,8,58,Normal
+1,Battery,13,33,Bad
+2,HDD_NB_DT,8,21,Bad
+2,LCD,15,90,Normal
+9,ODM Mechanical,13,130,Good
+12,CORD,10,89,Normal
+12,MOUSE,8,72,Normal
+1,Wireless,8,126,Good
+2,ODM Mechanical,13,115,Good
+5,SSD_NB_DT,8,107,Good
+1,CORD,10,55,Normal
+12,CORD,10,86,Normal
+19,Keyboard_NBK,17,140,Good
+14,ODM Mechanical,13,3,Bad
+12,HDD_NB_DT,8,89,Normal
+14,Nic Card,22,117,Good
+2,HDD_NB_DT,8,191,Fair
+14,LCD,15,8,Bad
+12,Memory,13,93,Normal
+7,Battery,13,31,Bad
+8,ODM Mechanical,13,146,Good
+5,Memory,13,113,Good
+14,Wireless,8,10,Bad
+12,Docking,8,125,Good
+11,SSD_NB_DT,8,149,Good
+12,CORD,10,86,Normal
+1,ODM Mechanical,13,26,Bad
+18,Graphic Card,19,125,Good
+1,ODM Mechanical,13,119,Good
+8,CORD,10,109,Good
+14,Battery,13,34,Bad
+2,ODD Mechanical,13,146,Good
+2,Graphic Card,19,100,Good
+1,ODD Mechanical,13,134,Good
+7,Battery,13,34,Bad
+2,LCD,15,91,Normal
+14,Graphic Card,19,130,Good
+14,HDD_NB_DT,8,33,Bad
+1,Docking,8,118,Good
+2,CORD,10,124,Good
+2,CORD,10,140,Good
+12,SSD_NB_DT,8,36,Bad
+1,ODD Mechanical,13,17,Bad
+12,Speaker,18,128,Good
+1,SSD_NB_DT,8,138,Good
+2,LCD,15,60,Normal
+12,ODM Mechanical,13,100,Good
+7,HDD_NB_DT,8,1,Bad
+19,Adaptar,13,112,Good
+1,ODM Mechanical,13,26,Bad
+2,Wireless,8,29,Bad
+1,ODD,13,66,Normal
+12,SSD_NB_DT,8,109,Good
+19,ODD Mechanical,13,1,Bad
+9,ODM Mechanical,13,103,Good
+19,LCD,15,4,Bad
+1,ODM Mechanical,13,26,Bad
+14,Adaptar,13,107,Good
+2,Keyboard_NBK,17,146,Good
+12,HDD_NB_DT,8,129,Good
+9,Battery,13,128,Good
+1,ODD Mechanical,13,9,Bad
+2,Keyboard_NBK,17,147,Good
+12,Memory,13,74,Normal
+2,Graphic Card,19,133,Good
+12,Graphic Card,19,148,Good
+14,ODM Mechanical,13,105,Good
+1,ODD Mechanical,13,35,Bad
+1,CORD,10,96,Normal
+7,CORD,10,130,Good
+2,Memory,13,12,Bad
+1,ODD Mechanical,13,109,Good
+8,Wireless,8,18,Bad
+1,ODD Mechanical,13,6,Bad
+2,SSD_NB_DT,8,8,Bad
+13,ODM Mechanical,13,24,Bad
+2,ODD Mechanical,13,25,Bad
+1,ODD Mechanical,13,146,Good
+16,SSD_NB_DT,8,141,Good
+2,ODM Mechanical,13,5,Bad
+14,Keyboard_DT,17,139,Good
+12,CORD,10,88,Normal
+1,MOUSE,8,82,Normal
+8,CORD,10,130,Good
+14,Graphic Card,19,24,Bad
+2,MOUSE,8,131,Good
+1,CORD,10,85,Normal
+8,ODM Mechanical,13,130,Good
+7,LCD,15,143,Good
+2,SSD_NB_DT,8,121,Good
+2,Wireless,8,92,Normal
+2,HDD_NB_DT,8,30,Bad
+17,HDD_NB_DT,8,132,Good
+2,LCD,15,57,Normal
+11,Battery,13,124,Good
+1,Graphic Card,19,105,Good
+18,Memory,13,109,Good
+1,ODM Mechanical,13,147,Good
+9,HDD_NB_DT,8,38,Bad
+1,CORD,10,106,Good
+1,ODD Mechanical,13,94,Normal
+3,CORD,10,149,Good
+14,Graphic Card,19,119,Good
+9,ODM Mechanical,13,112,Good
+2,ODD,13,90,Normal
+1,ODD,13,102,Good
+14,Projector,17,145,Good
+9,HDD_NB_DT,8,14,Bad
+1,ODD Mechanical,13,138,Good
+1,Memory,13,81,Normal
+2,Nic Card,22,120,Good
+19,ODD,13,131,Good
+1,HDD_NB_DT,8,62,Normal
+17,Keyboard_NBK,17,134,Good
+2,Keyboard_NBK,17,179,Fair
+18,Graphic Card,19,139,Good
+1,Graphic Card,19,102,Good
+1,ODD Mechanical,13,42,Bad
+2,Memory,13,89,Normal
+8,HDD_NB_DT,8,1,Bad
+1,Keyboard_NBK,17,80,Normal
+9,ODM Mechanical,13,146,Good
+9,ODD,13,20,Bad
+1,ODD Mechanical,13,47,Bad
+2,HDD_NB_DT,8,111,Good
+12,Memory,13,76,Normal
+17,SSD_NB_DT,8,120,Good
+2,Projector,17,121,Good
+2,Memory,13,89,Normal
+1,ODM Mechanical,13,142,Good
+1,CORD,10,86,Normal
+2,ODD Mechanical,13,147,Good
+8,HDD_NB_DT,8,32,Bad
+1,ODD Mechanical,13,102,Good
+19,HDD_NB_DT,8,33,Bad
+8,ODM Mechanical,13,129,Good
+12,Wireless,8,109,Good
+3,CORD,10,117,Good
+8,LCD,15,37,Bad
+1,ODD Mechanical,13,35,Bad
+2,CORD,10,114,Good
+8,LCD,15,109,Good
+9,Graphic Card,19,109,Good
+2,Memory,13,22,Bad
+1,Keyboard_NBK,17,106,Good
+12,ODM Mechanical,13,109,Good
+14,ODD,13,143,Good
+1,HDD_NB_DT,8,52,Normal
+1,ODD Mechanical,13,145,Good
+9,Graphic Card,19,100,Good
+19,ODM Mechanical,13,10,Bad
+1,Graphic Card,19,109,Good
+2,Keyboard_NBK,17,143,Good
+14,ODM Mechanical,13,147,Good
+12,MOUSE,8,105,Good
+1,Graphic Card,19,89,Normal
+2,ODD,13,142,Good
+1,ODM Mechanical,13,103,Good
+1,ODD,13,93,Normal
+1,CORD,10,149,Good
+1,CORD,10,121,Good
+1,ODM Mechanical,13,45,Bad
+5,Memory,13,117,Good
+1,Battery,13,139,Good
+7,HDD_NB_DT,8,48,Bad
+2,CORD,10,109,Good
+1,ODD Mechanical,13,119,Good
+1,ODD,13,50,Normal
+12,ODD,13,104,Good
+1,Battery,13,114,Good
+1,ODD Mechanical,13,17,Bad
+12,CORD,10,58,Normal
+19,CORD,10,128,Good
+7,ODD Mechanical,13,103,Good
+16,Memory,13,118,Good
+1,ODD Mechanical,13,70,Normal
+1,SSD_NB_DT,8,43,Bad
+1,ODD Mechanical,13,41,Bad
+1,Keyboard_NBK,17,130,Good
+14,Memory,13,143,Good
+13,Battery,13,14,Bad
+1,ODD Mechanical,13,9,Bad
+2,Memory,13,108,Good
+14,Memory,13,27,Bad
+2,Memory,13,9,Bad
+13,Battery,13,15,Bad
+1,ODD Mechanical,13,5,Bad
+11,ODD Mechanical,13,144,Good
+9,CORD,10,128,Good
+12,ODD,13,20,Bad
+12,HDD_NB_DT,8,78,Normal
+7,Battery,13,11,Bad
+2,Memory,13,4,Bad
+1,LCD,15,190,Fair
+13,Battery,13,1,Bad
+2,SSD_NB_DT,8,48,Bad
+2,ODM Mechanical,13,21,Bad
+12,ODD,13,42,Bad
+12,Memory,13,89,Normal
+1,ODD Mechanical,13,129,Good
+8,CORD,10,134,Good
+12,Memory,13,23,Bad
+1,ODD Mechanical,13,25,Bad
+7,HDD_NB_DT,8,3,Bad
+13,ODD,13,116,Good
+7,ODD,13,117,Good
+18,Nic Card,22,119,Good
+2,ODD Mechanical,13,135,Good
+5,ODM Mechanical,13,56,Normal
+12,Memory,13,11,Bad
+2,Memory,13,69,Normal
+8,ODM Mechanical,13,41,Bad
+12,HDD_NB_DT,8,88,Normal
+8,HDD_NB_DT,8,16,Bad
+1,ODM Mechanical,13,121,Good
+7,SSD_NB_DT,8,56,Normal
+11,Graphic Card,19,138,Good
+1,ODD Mechanical,13,33,Bad
+2,Controller Card,22,144,Good
+1,Memory,13,40,Bad
+1,ODD Mechanical,13,19,Bad
+8,CORD,10,127,Good
+2,CORD,10,139,Good
+12,HDD_NB_DT,8,69,Normal
+2,CORD,10,122,Good
+1,HDD_NB_DT,8,104,Good
+1,Battery,13,11,Bad
+2,ODD,13,12,Bad
+1,LCD,15,142,Good
+8,HDD_NB_DT,8,32,Bad
+9,ODM Mechanical,13,103,Good
+2,Memory,13,80,Normal
+18,Battery,13,100,Good
+1,SSD_NB_DT,8,124,Good
+14,Graphic Card,19,137,Good
+2,SSD_NB_DT,8,18,Bad
+14,Wireless,8,32,Bad
+9,Keyboard_NBK,17,146,Good
+1,CORD,10,122,Good
+14,ODM Mechanical,13,14,Bad
+12,HDD_NB_DT,8,52,Normal
+2,Wireless,8,57,Normal
+12,ODM Mechanical,13,13,Bad
+2,CORD,10,139,Good
+2,Nic Card,22,121,Good
+5,Memory,13,109,Good
+14,Wireless,8,46,Bad
+3,SSD_NB_DT,8,147,Good
+13,ODD Mechanical,13,108,Good
+14,ODM Mechanical,13,3,Bad
+2,CORD,10,67,Normal
+14,LCD,15,41,Bad
+17,Memory,13,104,Good
+2,Nic Card,22,107,Good
+2,CORD,10,71,Normal
+1,Adaptar,13,73,Normal
+3,ODM Mechanical,13,141,Good
+12,Memory,13,80,Normal
+1,ODD Mechanical,13,117,Good
+1,CORD,10,53,Normal
+2,SSD_NB_DT,8,101,Good
+1,ODM Mechanical,13,109,Good
+2,Keyboard_NBK,17,112,Good
+16,SSD_NB_DT,8,121,Good
+14,Wireless,8,2,Bad
+1,CORD,10,194,Fair
+2,Adaptar,13,139,Good
+8,ODM Mechanical,13,144,Good
+13,Battery,13,1,Bad
+1,ODD Mechanical,13,41,Bad
+2,Memory,13,70,Normal
+2,Graphic Card,19,131,Good
+12,HDD_NB_DT,8,97,Normal
+9,ODM Mechanical,13,119,Good
+12,ODM Mechanical,13,13,Bad
+9,MOUSE,8,106,Good
+1,Keyboard_NBK,17,110,Good
+13,Battery,13,4,Bad
+1,ODD Mechanical,13,18,Bad
+1,Adaptar,13,69,Normal
+7,Memory,13,2,Bad
+1,Carrying case,13,135,Good
+17,HDD_NB_DT,8,120,Good
+7,SSD_NB_DT,8,37,Bad
+8,Keyboard_NBK,17,114,Good
+2,Memory,13,5,Bad
+5,Memory,13,63,Normal
+14,Wireless,8,36,Bad
+12,Keyboard_DT,17,125,Good
+19,Adaptar,13,110,Good
+19,HDD_NB_DT,8,36,Bad
+12,CORD,10,62,Normal
+8,CORD,10,117,Good
+2,ODD Mechanical,13,27,Bad
+2,ODD Mechanical,13,129,Good
+7,Nic Card,22,37,Bad
+7,Wireless,8,38,Bad
+2,Memory,13,10,Bad
+8,Keyboard_DT,17,123,Good
+1,Battery,13,36,Bad
+2,Graphic Card,19,136,Good
+2,Wireless,8,164,Fair
+2,Battery,13,38,Bad
+14,ODD,13,47,Bad
+14,Nic Card,22,117,Good
+8,ODM Mechanical,13,124,Good
+2,CORD,10,134,Good
+1,Keyboard_NBK,17,141,Good
+14,Memory,13,109,Good
+1,ODM Mechanical,13,78,Normal
+1,Docking,8,105,Good
+8,Adaptar,13,101,Good
+2,Keyboard_NBK,17,128,Good
+1,ODD Mechanical,13,141,Good
+1,Keyboard_NBK,17,139,Good
+8,ODD Mechanical,13,8,Bad
+19,Cable,13,141,Good
+2,ODD,13,180,Fair
+1,ODD Mechanical,13,142,Good
+5,Nic Card,22,101,Good
+12,HDD_NB_DT,8,44,Bad
+2,Battery,13,50,Normal
+12,Memory,13,17,Bad
+2,SSD_NB_DT,8,143,Good
+1,HDD_NB_DT,8,110,Good
+12,CORD,10,54,Normal
+16,ODD Mechanical,13,129,Good
+2,Keyboard_NBK,17,192,Fair
+12,HDD_NB_DT,8,97,Normal
+1,ODD Mechanical,13,55,Normal
+2,CORD,10,106,Good
+2,LCD,15,88,Normal
+8,Docking,8,132,Good
+7,Memory,13,2,Bad
+16,ODD Mechanical,13,110,Good
+1,CORD,10,118,Good
+2,Battery,13,58,Normal
+7,MOUSE,8,138,Good
+8,ODD Mechanical,13,126,Good
+1,Carrying case,13,139,Good
+2,CORD,10,106,Good
+8,Keyboard_DT,17,113,Good
+1,ODM Mechanical,13,195,Fair
+1,ODM Mechanical,13,115,Good
+2,Battery,13,97,Normal
+8,ODD Mechanical,13,117,Good
+2,ODD,13,12,Bad
+13,CORD,10,125,Good
+13,ODM Mechanical,13,122,Good
+14,Wireless,8,29,Bad
+14,ODD,13,25,Bad
+8,HDD_NB_DT,8,23,Bad
+2,Wireless,8,12,Bad
+9,ODM Mechanical,13,136,Good
+8,HDD_NB_DT,8,109,Good
+2,LCD,15,59,Normal
+1,ODD Mechanical,13,171,Fair
+14,ODD Mechanical,13,106,Good
+8,Memory,13,42,Bad
+2,ODD,13,122,Good
+2,Memory,13,22,Bad
+18,Memory,13,124,Good
+1,ODD Mechanical,13,27,Bad
+13,ODM Mechanical,13,32,Bad
+2,Memory,13,42,Bad
+14,Wireless,8,12,Bad
+1,Battery,13,109,Good
+1,Battery,13,102,Good
+1,ODD Mechanical,13,6,Bad
+16,HDD_NB_DT,8,138,Good
+12,Keyboard_DT,17,143,Good
+1,Keyboard_NBK,17,125,Good
+3,ODD Mechanical,13,143,Good
+3,Cable,13,122,Good
+1,ODM Mechanical,13,136,Good
+1,ODD Mechanical,13,30,Bad
+11,Nic Card,22,107,Good
+3,ODD Mechanical,13,136,Good
+8,Adaptar,13,103,Good
+1,Adaptar,13,169,Fair
+2,ODD,13,89,Normal
+11,HDD_NB_DT,8,113,Good
+7,ODM Mechanical,13,106,Good
+14,ODM Mechanical,13,38,Bad
+12,MOUSE,8,87,Normal
+17,Memory,13,109,Good
+1,SSD_NB_DT,8,5,Bad
+12,Speaker,18,35,Bad
+7,Cable,13,110,Good
+2,Memory,13,94,Normal
+12,ODD,13,4,Bad
+8,ODM Mechanical,13,118,Good
+1,Keyboard_DT,17,148,Good
+19,Memory,13,6,Bad
+18,Graphic Card,19,109,Good
+8,Memory,13,37,Bad
+8,HDD_NB_DT,8,30,Bad
+10,ODD,13,127,Good
+1,Battery,13,31,Bad
+2,ODM Mechanical,13,41,Bad
+12,Wireless,8,44,Bad
+1,Wireless,8,148,Good
+1,Memory,13,77,Normal
+1,Carrying case,13,108,Good
+2,ODM Mechanical,13,31,Bad
+12,ODM Mechanical,13,16,Bad
+8,Wireless,8,18,Bad
+2,Nic Card,22,101,Good
+13,ODD,13,115,Good
+13,Battery,13,34,Bad
+2,Graphic Card,19,129,Good
+1,ODM Mechanical,13,148,Good
+2,HDD_NB_DT,8,124,Good
+2,HDD_NB_DT,8,136,Good
+1,LCD,15,168,Fair
+2,CORD,10,76,Normal
+1,Memory,13,153,Fair
+1,Graphic Card,19,76,Normal
+2,Battery,13,23,Bad
+11,Memory,13,120,Good
+1,ODM Mechanical,13,108,Good
+1,ODD,13,197,Fair
+2,Memory,13,41,Bad
+8,ODD Mechanical,13,133,Good
+1,SSD_NB_DT,8,120,Good
+1,Memory,13,129,Good
+2,ODD Mechanical,13,109,Good
+1,Network Card,13,143,Good
+19,Battery,13,116,Good
+9,Keyboard_NBK,17,131,Good
+7,HDD_NB_DT,8,8,Bad
+2,Wireless,8,145,Good
+1,LCD,15,82,Normal
+1,ODD Mechanical,13,138,Good
+19,Adaptar,13,139,Good
+12,CORD,10,127,Good
+2,ODM Mechanical,13,133,Good
+14,ODD Mechanical,13,147,Good
+1,Graphic Card,19,129,Good
+14,ODD Mechanical,13,114,Good
+1,Graphic Card,19,101,Good
+2,Keyboard_NBK,17,118,Good
+16,HDD_NB_DT,8,104,Good
+11,HDD_NB_DT,8,119,Good
+9,Carrying case,13,118,Good
+8,MOUSE,8,108,Good
+16,SSD_NB_DT,8,107,Good
+2,ODM Mechanical,13,174,Fair
+1,ODD,13,117,Good
+2,LCD,15,13,Bad
+9,ODM Mechanical,13,120,Good
+1,ODM Mechanical,13,127,Good
+1,ODM Mechanical,13,104,Good
+2,Adaptar,13,149,Good
+14,Memory,13,141,Good
+7,Adaptar,13,142,Good
+7,Memory,13,27,Bad
+12,Memory,13,8,Bad
+2,CORD,10,121,Good
+2,Carrying case,13,103,Good
+1,ODD,13,106,Good
+19,Wireless,8,118,Good
+2,Memory,13,62,Normal
+14,HDD_NB_DT,8,18,Bad
+2,Wireless,8,84,Normal
+3,Docking,8,108,Good
+11,Adaptar,13,110,Good
+13,Keyboard_DT,17,130,Good
+1,Graphic Card,19,104,Good
+2,Memory,13,99,Normal
+2,Battery,13,53,Normal
+12,Battery,13,134,Good
+1,HDD_NB_DT,8,86,Normal
+2,Battery,13,46,Bad
+1,ODD Mechanical,13,20,Bad
+3,Memory,13,141,Good
+2,ODD,13,22,Bad
+1,Memory,13,43,Bad
+1,Adaptar,13,115,Good
+2,HDD_NB_DT,8,186,Fair
+2,Carrying case,13,145,Good
+11,HDD_NB_DT,8,132,Good
+14,ODM Mechanical,13,31,Bad
+1,Wireless,8,18,Bad
+7,Graphic Card,19,119,Good
+2,Wireless,8,37,Bad
+14,Graphic Card,19,133,Good
+1,Graphic Card,19,97,Normal
+2,Keyboard_NBK,17,115,Good
+16,Memory,13,135,Good
+4,ODD,13,10,Bad
+14,Graphic Card,19,137,Good
+19,Keyboard_DT,17,121,Good
+1,HDD_NB_DT,8,6,Bad
+16,Memory,13,136,Good
+12,ODM Mechanical,13,118,Good
+2,Wireless,8,157,Fair
+19,MOUSE,8,110,Good
+19,ODM Mechanical,13,145,Good
+2,SSD_NB_DT,8,27,Bad
+12,ODM Mechanical,13,113,Good
+2,Docking,8,144,Good
+12,Memory,13,87,Normal
+2,CORD,10,128,Good
+2,Keyboard_NBK,17,121,Good
+8,CORD,10,111,Good
+2,ODD Mechanical,13,42,Bad
+12,ODM Mechanical,13,110,Good
+12,CORD,10,111,Good
+1,Memory,13,120,Good
+2,ODD,13,34,Bad
+1,LCD,15,109,Good
+12,Memory,13,67,Normal
+1,ODD Mechanical,13,125,Good
+1,Adaptar,13,112,Good
+1,HDD_NB_DT,8,128,Good
+8,MOUSE,8,125,Good
+1,ODM Mechanical,13,107,Good
+1,Memory,13,44,Bad
+2,Adaptar,13,114,Good
+7,ODM Mechanical,13,142,Good
+1,HDD_NB_DT,8,96,Normal
+3,ODD Mechanical,13,121,Good
+2,CORD,10,127,Good
+1,ODD Mechanical,13,18,Bad
+14,ODM Mechanical,13,134,Good
+14,LCD,15,48,Bad
+1,ODD Mechanical,13,31,Bad
+1,Speaker,18,136,Good
+12,HDD_NB_DT,8,82,Normal
+8,CORD,10,110,Good
+1,SSD_NB_DT,8,16,Bad
+1,CORD,10,113,Good
+2,Wireless,8,39,Bad
+1,ODM Mechanical,13,126,Good
+8,CORD,10,108,Good
+19,Keyboard_NBK,17,143,Good
+1,Speaker,18,121,Good
+1,Memory,13,188,Fair
+2,ODD Mechanical,13,3,Bad
+1,LCD,15,132,Good
+1,Memory,13,19,Bad
+2,Graphic Card,19,112,Good
+2,Memory,13,114,Good
+14,Memory,13,107,Good
+2,ODD,13,159,Fair
+1,Memory,13,135,Good
+1,Wireless,8,115,Good
+8,ODD Mechanical,13,111,Good
+5,SSD_NB_DT,8,60,Normal
+1,ODM Mechanical,13,107,Good
+8,Battery,13,106,Good
+14,Memory,13,119,Good
+2,CORD,10,100,Good
+8,ODD Mechanical,13,148,Good
+12,Memory,13,75,Normal
+2,Graphic Card,19,128,Good
+2,Memory,13,30,Bad
+1,MOUSE,8,88,Normal
+14,Docking,8,127,Good
+12,Keyboard_NBK,17,128,Good
+13,ODD,13,132,Good
+1,ODD Mechanical,13,12,Bad
+2,Graphic Card,19,105,Good
+1,HDD_NB_DT,8,56,Normal
+3,HDD_NB_DT,8,145,Good
+7,Nic Card,22,2,Bad
+1,Keyboard_NBK,17,122,Good
+8,Keyboard_NBK,17,142,Good
+1,Keyboard_NBK,17,126,Good
+1,Nic Card,22,130,Good
+11,Graphic Card,19,109,Good
+2,LCD,15,21,Bad
+12,ODD Mechanical,13,41,Bad
+12,Adaptar,13,110,Good
+14,HDD_NB_DT,8,40,Bad
+4,ODD,13,21,Bad
+8,CORD,10,116,Good
+9,Graphic Card,19,133,Good
+13,ODD,13,103,Good
+2,CORD,10,144,Good
+5,SSD_NB_DT,8,67,Normal
+2,Memory,13,134,Good
+7,HDD_NB_DT,8,9,Bad
+2,Memory,13,7,Bad
+14,MOUSE,8,108,Good
+19,LCD,15,144,Good
+1,ODD,13,97,Normal
+1,LCD,15,139,Good
+2,ODM Mechanical,13,111,Good
+1,Keyboard_DT,17,102,Good
+1,SSD_NB_DT,8,128,Good
+1,Battery,13,6,Bad
+2,ODM Mechanical,13,18,Bad
+2,Memory,13,99,Normal
+12,ODM Mechanical,13,24,Bad
+1,Cable,13,127,Good
+2,ODD,13,30,Bad
+1,HDD_NB_DT,8,140,Good
+8,ODM Mechanical,13,126,Good
+2,Battery,13,86,Normal
+1,ODM Mechanical,13,98,Normal
+2,CORD,10,127,Good
+1,Docking,8,127,Good
+8,ODD Mechanical,13,138,Good
+12,SSD_NB_DT,8,101,Good
+1,Battery,13,14,Bad
+12,HDD_NB_DT,8,100,Good
+12,Memory,13,57,Normal
+8,CORD,10,137,Good
+2,Battery,13,52,Normal
+2,HDD_NB_DT,8,112,Good
+14,Memory,13,103,Good
+9,Network Card,13,120,Good
+9,HDD_NB_DT,8,47,Bad
+2,HDD_NB_DT,8,187,Fair
+9,CORD,10,135,Good
+2,HDD_NB_DT,8,116,Good
+2,LCD,15,26,Bad
+14,Wireless,8,103,Good
+5,Memory,13,107,Good
+1,CORD,10,113,Good
+12,LCD,15,62,Normal
+12,Wireless,8,122,Good
+12,CORD,10,145,Good
+1,ODM Mechanical,13,148,Good
+2,Carrying case,13,140,Good
+1,HDD_NB_DT,8,80,Normal
+8,Keyboard_DT,17,138,Good
+14,ODM Mechanical,13,16,Bad
+3,HDD_NB_DT,8,135,Good
+2,Keyboard_NBK,17,198,Fair
+2,ODM Mechanical,13,109,Good
+2,Keyboard_NBK,17,193,Fair
+8,Keyboard_DT,17,100,Good
+2,Keyboard_NBK,17,133,Good
+2,Wireless,8,44,Bad
+12,ODD,13,102,Good
+12,Memory,13,73,Normal
+2,LCD,15,39,Bad
+1,MOUSE,8,182,Fair
+8,ODM Mechanical,13,122,Good
+16,SSD_NB_DT,8,105,Good
+7,HDD_NB_DT,8,48,Bad
+1,ODD,13,146,Good
+1,ODD,13,79,Normal
+12,Keyboard_NBK,17,119,Good
+10,Memory,13,138,Good
+18,Nic Card,22,119,Good
+19,HDD_NB_DT,8,13,Bad
+12,LCD,15,13,Bad
+19,CORD,10,100,Good
+1,CORD,10,144,Good
+2,ODD Mechanical,13,112,Good
+9,ODD Mechanical,13,102,Good
+2,Graphic Card,19,132,Good
+19,HDD_NB_DT,8,45,Bad
+9,ODD,13,106,Good
+1,CORD,10,74,Normal
+12,Adaptar,13,133,Good
+2,Battery,13,24,Bad
+8,CORD,10,128,Good
+8,CORD,10,129,Good
+6,HDD_NB_DT,8,79,Normal
+2,ODM Mechanical,13,39,Bad
+12,ODM Mechanical,13,145,Good
+19,ODD,13,126,Good
+5,Battery,13,88,Normal
+1,ODD Mechanical,13,138,Good
+1,CORD,10,147,Good
+2,Battery,13,140,Good
+12,ODM Mechanical,13,88,Normal
+14,SSD_NB_DT,8,46,Bad
+1,Controller Card,22,115,Good
+7,Carrying case,13,105,Good
+17,HDD_NB_DT,8,136,Good
+12,ODD,13,115,Good
+12,Memory,13,52,Normal
+8,Memory,13,18,Bad
+1,ODM Mechanical,13,126,Good
+1,ODM Mechanical,13,80,Normal
+8,ODM Mechanical,13,112,Good
+13,Adaptar,13,133,Good
+1,Docking,8,138,Good
+14,MOUSE,8,143,Good
+14,Keyboard_DT,17,100,Good
+2,SSD_NB_DT,8,107,Good
+8,Memory,13,43,Bad
+12,SSD_NB_DT,8,131,Good
+1,Battery,13,63,Normal
+4,Battery,13,20,Bad
+2,Graphic Card,19,110,Good
+8,Memory,13,35,Bad
+3,ODD Mechanical,13,144,Good
+1,Battery,13,63,Normal
+12,Graphic Card,19,128,Good
+1,Battery,13,19,Bad
+12,Graphic Card,19,147,Good
+13,Wireless,8,30,Bad
+2,ODM Mechanical,13,26,Bad
+17,SSD_NB_DT,8,140,Good
+14,HDD_NB_DT,8,132,Good
+2,Keyboard_NBK,17,117,Good
+12,Graphic Card,19,137,Good
+1,ODD Mechanical,13,120,Good
+9,Memory,13,2,Bad
+1,Memory,13,10,Bad
+2,SSD_NB_DT,8,126,Good
+14,ODD Mechanical,13,144,Good
+1,Keyboard_NBK,17,102,Good
+19,Keyboard_DT,17,111,Good
+4,ODD Mechanical,13,12,Bad
+5,Memory,13,112,Good
+8,Keyboard_NBK,17,119,Good
+8,Keyboard_NBK,17,137,Good
+2,HDD_NB_DT,8,147,Good
+11,Wireless,8,126,Good
+19,ODM Mechanical,13,142,Good
+2,ODD,13,18,Bad
+1,CORD,10,145,Good
+1,SSD_NB_DT,8,147,Good
+1,Adaptar,13,166,Fair
+1,Memory,13,127,Good
+8,HDD_NB_DT,8,38,Bad
+8,Adaptar,13,129,Good
+2,ODM Mechanical,13,190,Fair
+7,SSD_NB_DT,8,137,Good
+3,ODD Mechanical,13,123,Good
+2,ODD,13,94,Normal
+2,Memory,13,15,Bad
+1,CORD,10,133,Good
+6,LCD,15,50,Normal
+8,LCD,15,1,Bad
+7,ODM Mechanical,13,20,Bad
+2,ODM Mechanical,13,23,Bad
+12,ODM Mechanical,13,135,Good
+1,CORD,10,182,Fair
+7,Memory,13,72,Normal
+1,Keyboard_NBK,17,131,Good
+1,ODD Mechanical,13,49,Bad
+2,Wireless,8,53,Normal
+2,ODD,13,22,Bad
+8,ODM Mechanical,13,122,Good
+1,ODD Mechanical,13,138,Good
+9,Battery,13,105,Good
+2,Graphic Card,19,146,Good
+1,Memory,13,145,Good
+2,LCD,15,83,Normal
+14,Graphic Card,19,141,Good
+12,Keyboard_NBK,17,141,Good
+9,ODM Mechanical,13,114,Good
+2,Keyboard_NBK,17,115,Good
+18,Memory,13,132,Good
+3,Nic Card,22,134,Good
+1,ODM Mechanical,13,123,Good
+14,Battery,13,116,Good
+11,HDD_NB_DT,8,145,Good
+2,LCD,15,18,Bad
+1,Keyboard_DT,17,106,Good
+18,Memory,13,110,Good
+13,Battery,13,131,Good
+8,HDD_NB_DT,8,31,Bad
+2,Keyboard_DT,17,148,Good
+2,Wireless,8,166,Fair
+12,Memory,13,43,Bad
+2,ODD Mechanical,13,16,Bad
+2,Memory,13,13,Bad
+12,Adaptar,13,51,Normal
+1,MOUSE,8,82,Normal
+1,Wireless,8,64,Normal
+2,LCD,15,142,Good
+7,Memory,13,34,Bad
+2,Graphic Card,19,42,Bad
+19,ODD,13,130,Good
+14,Wireless,8,135,Good
+2,Memory,13,104,Good
+19,Wireless,8,102,Good
+1,ODM Mechanical,13,113,Good
+2,CORD,10,122,Good
+19,HDD_NB_DT,8,4,Bad
+8,Adaptar,13,116,Good
+1,Adaptar,13,82,Normal
+1,Battery,13,133,Good
+1,ODD,13,140,Good
+1,ODD Mechanical,13,117,Good
+2,Graphic Card,19,143,Good
+2,Nic Card,22,102,Good
+11,HDD_NB_DT,8,106,Good
+1,ODD Mechanical,13,142,Good
+2,ODM Mechanical,13,180,Fair
+12,Wireless,8,6,Bad
+1,Memory,13,74,Normal
+14,Keyboard_NBK,17,114,Good
+14,ODM Mechanical,13,143,Good
+12,HDD_NB_DT,8,145,Good
+19,CORD,10,143,Good
+8,CORD,10,127,Good
+1,ODD Mechanical,13,114,Good
+1,Memory,13,16,Bad
+1,HDD_NB_DT,8,116,Good
+14,Cable,13,145,Good
+12,ODD Mechanical,13,4,Bad
+1,ODD,13,126,Good
+2,Speaker,18,117,Good
+12,Memory,13,43,Bad
+2,Graphic Card,19,127,Good
+1,Keyboard_NBK,17,113,Good
+14,Projector,17,100,Good
+10,CORD,10,149,Good
+1,ODD Mechanical,13,118,Good
+9,ODM Mechanical,13,130,Good
+5,Keyboard_NBK,17,95,Normal
+2,Memory,13,41,Bad
+14,ODD Mechanical,13,149,Good
+2,CORD,10,108,Good
+5,Keyboard_NBK,17,55,Normal
+8,ODM Mechanical,13,134,Good
+8,Memory,13,23,Bad
+2,Memory,13,23,Bad
+2,Speaker,18,127,Good
+1,ODD,13,131,Good
+1,ODM Mechanical,13,119,Good
+14,LCD,15,29,Bad
+1,Keyboard_DT,17,128,Good
+8,Keyboard_DT,17,106,Good
+11,Graphic Card,19,139,Good
+8,Memory,13,12,Bad
+13,ODD Mechanical,13,117,Good
+2,Cable,13,131,Good
+14,ODD Mechanical,13,12,Bad
+1,CORD,10,111,Good
+19,CORD,10,141,Good
+2,ODD,13,40,Bad
+14,Graphic Card,19,26,Bad
+14,Memory,13,23,Bad
+2,HDD_NB_DT,8,144,Good
+1,ODD Mechanical,13,27,Bad
+14,Carrying case,13,146,Good
+16,HDD_NB_DT,8,139,Good
+1,ODD Mechanical,13,144,Good
+8,ODM Mechanical,13,143,Good
+19,ODD Mechanical,13,18,Bad
+2,ODM Mechanical,13,87,Normal
+18,Memory,13,103,Good
+1,ODD,13,11,Bad
+2,Nic Card,22,144,Good
+2,HDD_NB_DT,8,164,Fair
+16,Memory,13,103,Good
+1,Graphic Card,19,110,Good
+1,ODD Mechanical,13,107,Good
+1,ODD,13,123,Good
+9,Graphic Card,19,134,Good
+1,Adaptar,13,66,Normal
+14,Nic Card,22,149,Good
+1,ODD,13,145,Good
+6,Wireless,8,3,Bad
+2,LCD,15,103,Good
+7,Memory,13,62,Normal
+1,LCD,15,127,Good
+2,HDD_NB_DT,8,190,Fair
+8,ODD,13,1,Bad
+2,Memory,13,126,Good
+1,Wireless,8,95,Normal
+1,Adaptar,13,100,Good
+1,ODM Mechanical,13,147,Good
+1,Graphic Card,19,50,Normal
+1,Memory,13,18,Bad
+1,LCD,15,169,Fair
+2,Carrying Case,13,128,Good
+9,MOUSE,8,116,Good
+18,Nic Card,22,114,Good
+2,LCD,15,134,Good
+8,Memory,13,30,Bad
+1,Keyboard_NBK,17,130,Good
+1,Graphic Card,19,110,Good
+7,Keyboard_NBK,17,142,Good
+1,Wireless,8,148,Good
+1,Adaptar,13,142,Good
+2,ODM Mechanical,13,54,Normal
+2,Network Card,13,121,Good
+1,Wireless,8,141,Good
+2,ODM Mechanical,13,55,Normal
+14,Battery,13,25,Bad
+1,Wireless,8,156,Fair
+1,ODD,13,106,Good
+2,Adaptar,13,156,Fair
+14,Memory,13,10,Bad
+18,Graphic Card,19,128,Good
+2,ODD Mechanical,13,6,Bad
+2,Memory,13,43,Bad
+9,Graphic Card,19,137,Good
+6,Wireless,8,12,Bad
+14,ODD Mechanical,13,134,Good
+1,CORD,10,104,Good
+2,Graphic Card,19,130,Good
+12,Adaptar,13,75,Normal
+9,Battery,13,36,Bad
+1,Battery,13,18,Bad
+1,Memory,13,122,Good
+9,Memory,13,111,Good
+14,Network Card,13,120,Good
+2,CORD,10,105,Good
+1,SSD_NB_DT,8,3,Bad
+14,ODM Mechanical,13,122,Good
+1,Wireless,8,17,Bad
+2,Keyboard_NBK,17,138,Good
+5,SSD_NB_DT,8,146,Good
+9,Wireless,8,119,Good
+2,ODM Mechanical,13,10,Bad
+1,ODD Mechanical,13,34,Bad
+2,CORD,10,100,Good
+2,ODD Mechanical,13,33,Bad
+18,Graphic Card,19,128,Good
+1,Carrying case,13,109,Good
+14,ODM Mechanical,13,7,Bad
+2,SSD_NB_DT,8,130,Good
+7,ODD Mechanical,13,37,Bad
+1,ODD,13,135,Good
+1,Memory,13,61,Normal
+18,Graphic Card,19,103,Good
+2,HDD_NB_DT,8,113,Good
+7,ODM Mechanical,13,19,Bad
+12,ODD Mechanical,13,139,Good
+14,Wireless,8,24,Bad
+7,Keyboard_DT,17,145,Good
+1,Adaptar,13,100,Good
+9,Graphic Card,19,101,Good
+17,ODM Mechanical,13,102,Good
+2,CORD,10,114,Good
+8,MOUSE,8,120,Good
+19,Battery,13,149,Good
+1,Graphic Card,19,126,Good
+1,CORD,10,139,Good
+18,Graphic Card,19,139,Good
+14,ODM Mechanical,13,107,Good
+8,ODM Mechanical,13,130,Good
+14,ODM Mechanical,13,106,Good
+2,ODD,13,28,Bad
+1,Speaker,18,133,Good
+1,LCD,15,83,Normal
+13,SSD_NB_DT,8,146,Good
+1,LCD,15,9,Bad
+2,ODM Mechanical,13,77,Normal
+2,Keyboard_NBK,17,188,Fair
+19,Keyboard_NBK,17,104,Good
+14,CORD,10,147,Good
+2,Battery,13,34,Bad
+8,Wireless,8,144,Good
+2,LCD,15,73,Normal
+1,Keyboard_DT,17,145,Good
+2,Keyboard_NBK,17,137,Good
+8,HDD_NB_DT,8,34,Bad
+2,CORD,10,130,Good
+1,Graphic Card,19,91,Normal
+14,Graphic Card,19,7,Bad
+1,ODD Mechanical,13,32,Bad
+14,ODD,13,139,Good
+1,CORD,10,52,Normal
+1,ODD,13,188,Fair
+8,CORD,10,106,Good
+2,Nic Card,22,125,Good
+2,Wireless,8,102,Good
+2,ODM Mechanical,13,88,Normal
+1,CORD,10,75,Normal
+2,ODD,13,97,Normal
+9,HDD_NB_DT,8,37,Bad
+2,CORD,10,146,Good
+2,Wireless,8,84,Normal
+1,Keyboard_NBK,17,114,Good
+1,Keyboard_NBK,17,105,Good
+1,ODD Mechanical,13,32,Bad
+12,ODD,13,26,Bad
+8,Wireless,8,38,Bad
+2,Memory,13,118,Good
+1,Memory,13,180,Fair
+1,CORD,10,118,Good
+14,ODM Mechanical,13,102,Good
+1,Adaptar,13,120,Good
+8,Graphic Card,19,113,Good
+2,SSD_NB_DT,8,104,Good
+2,Wireless,8,138,Good
+12,Wireless,8,103,Good
+13,ODM Mechanical,13,141,Good
+14,Graphic Card,19,132,Good
+2,ODM Mechanical,13,26,Bad
+2,Memory,13,86,Normal
+14,ODM Mechanical,13,4,Bad
+1,ODD Mechanical,13,100,Good
+1,Memory,13,112,Good
+11,Nic Card,22,100,Good
+2,CORD,10,58,Normal
+1,ODD Mechanical,13,44,Bad
+12,ODD,13,9,Bad
+13,Keyboard_DT,17,134,Good
+9,Keyboard_DT,17,123,Good
+2,ODM Mechanical,13,12,Bad
+1,Wireless,8,148,Good
+2,CORD,10,129,Good
+1,Memory,13,100,Good
+1,LCD,15,166,Fair
+14,Memory,13,115,Good
+2,LCD,15,50,Normal
+1,HDD_NB_DT,8,91,Normal
+19,Adaptar,13,145,Good
+1,ODM Mechanical,13,57,Normal
+2,Memory,13,6,Bad
+13,Keyboard_DT,17,116,Good
+5,Battery,13,79,Normal
+2,ODD,13,66,Normal
+1,Adaptar,13,113,Good
+8,Keyboard_NBK,17,135,Good
+2,ODM Mechanical,13,153,Fair
+13,ODD,13,103,Good
+2,Battery,13,104,Good
+12,Memory,13,62,Normal
+5,Battery,13,93,Normal
+7,ODM Mechanical,13,29,Bad
+12,CORD,10,59,Normal
+2,CORD,10,113,Good
+1,ODM Mechanical,13,122,Good
+1,Memory,13,141,Good
+3,ODD Mechanical,13,149,Good
+2,ODM Mechanical,13,84,Normal
+4,HDD_NB_DT,8,22,Bad
+9,ODM Mechanical,13,124,Good
+14,Keyboard_NBK,17,135,Good
+9,HDD_NB_DT,8,5,Bad
+12,CORD,10,84,Normal
+2,ODM Mechanical,13,160,Fair
+1,ODD Mechanical,13,63,Normal
+1,ODD,13,185,Fair
+9,Battery,13,15,Bad
+11,Memory,13,141,Good
+2,Wireless,8,170,Fair
+9,Keyboard_DT,17,136,Good
+8,Keyboard_NBK,17,101,Good
+7,Wireless,8,4,Bad
+11,Nic Card,22,140,Good
+3,Nic Card,22,131,Good
+1,HDD_NB_DT,8,60,Normal
+1,HDD_NB_DT,8,11,Bad
+2,CORD,10,111,Good
+12,ODD Mechanical,13,140,Good
+2,Graphic Card,19,131,Good
+2,ODD Mechanical,13,106,Good
+2,SSD_NB_DT,8,7,Bad
+1,Graphic Card,19,143,Good
+2,Wireless,8,58,Normal
+14,ODM Mechanical,13,1,Bad
+1,Memory,13,118,Good
+2,ODM Mechanical,13,165,Fair
+14,Wireless,8,22,Bad
+1,Memory,13,1,Bad
+9,Keyboard_NBK,17,137,Good
+9,HDD_NB_DT,8,109,Good
+1,SSD_NB_DT,8,42,Bad
+2,Keyboard_NBK,17,145,Good
+2,ODM Mechanical,13,141,Good
+5,ODM Mechanical,13,60,Normal
+2,LCD,15,75,Normal
+2,Battery,13,138,Good
+1,HDD_NB_DT,8,57,Normal
+1,CORD,10,128,Good
+2,LCD,15,10,Bad
+2,Memory,13,33,Bad
+7,Projector,17,135,Good
+1,CORD,10,148,Good
+2,SSD_NB_DT,8,85,Normal
+1,Adaptar,13,65,Normal
+1,ODD Mechanical,13,130,Good
+14,LCD,15,112,Good
+1,ODM Mechanical,13,67,Normal
+2,Keyboard_NBK,17,101,Good
+2,Battery,13,12,Bad
+2,Memory,13,2,Bad
+4,ODD Mechanical,13,37,Bad
+13,Keyboard_DT,17,129,Good
+1,SSD_NB_DT,8,132,Good
+14,Battery,13,10,Bad
+7,Keyboard_DT,17,109,Good
+1,Battery,13,117,Good
+1,MOUSE,8,78,Normal
+1,Battery,13,118,Good
+12,Memory,13,65,Normal
+1,Speaker,18,77,Normal
+1,ODD,13,105,Good
+2,Wireless,8,44,Bad
+1,Memory,13,50,Normal
+1,Graphic Card,19,125,Good
+9,ODM Mechanical,13,122,Good
+1,ODM Mechanical,13,170,Fair
+7,Carrying case,13,137,Good
+2,Keyboard_NBK,17,110,Good
+12,MOUSE,8,52,Normal
+1,ODD Mechanical,13,134,Good
+5,Memory,13,118,Good
+1,MOUSE,8,154,Fair
+2,ODD Mechanical,13,28,Bad
+14,Memory,13,124,Good
+14,CORD,10,140,Good
+1,Speaker,18,133,Good
+2,Graphic Card,19,147,Good
+8,HDD_NB_DT,8,26,Bad
+1,HDD_NB_DT,8,107,Good
+1,Memory,13,1,Bad
+2,CORD,10,126,Good
+1,ODD,13,92,Normal
+2,ODD,13,49,Bad
+1,HDD_NB_DT,8,67,Normal
+16,Memory,13,103,Good
+1,Network Card,13,139,Good
+1,Graphic Card,19,144,Good
+8,Keyboard_DT,17,107,Good
+2,Battery,13,4,Bad
+1,Battery,13,113,Good
+8,CORD,10,122,Good
+19,HDD_NB_DT,8,38,Bad
+2,CORD,10,114,Good
+1,HDD_NB_DT,8,104,Good
+2,CORD,10,104,Good
+2,ODD,13,22,Bad
+1,Wireless,8,48,Bad
+1,Memory,13,175,Fair
+18,Graphic Card,19,114,Good
+1,Wireless,8,96,Normal
+5,Battery,13,66,Normal
+2,CORD,10,110,Good
+7,Nic Card,22,15,Bad
+2,Battery,13,39,Bad
+1,HDD_NB_DT,8,144,Good
+19,CORD,10,106,Good
+2,LCD,15,135,Good
+1,Memory,13,123,Good
+7,ODM Mechanical,13,147,Good
+2,Memory,13,124,Good
+18,Battery,13,136,Good
+11,Graphic Card,19,126,Good
+18,Memory,13,137,Good
+8,CORD,10,139,Good
+8,Adaptar,13,112,Good
+2,SSD_NB_DT,8,32,Bad
+2,ODD Mechanical,13,174,Fair
+14,LCD,15,45,Bad
+7,ODM Mechanical,13,26,Bad
+2,Keyboard_NBK,17,128,Good
+19,ODD,13,40,Bad
+2,SSD_NB_DT,8,27,Bad
+8,HDD_NB_DT,8,41,Bad
+12,ODM Mechanical,13,2,Bad
+12,Adaptar,13,148,Good
+8,HDD_NB_DT,8,26,Bad
+5,SSD_NB_DT,8,137,Good
+2,Memory,13,110,Good
+7,Wireless,8,15,Bad
+2,Memory,13,128,Good
+1,Speaker,18,72,Normal
+2,HDD_NB_DT,8,132,Good
+7,Wireless,8,14,Bad
+1,ODD Mechanical,13,113,Good
+7,ODD,13,16,Bad
+17,SSD_NB_DT,8,146,Good
+2,ODM Mechanical,13,84,Normal
+7,Wireless,8,32,Bad
+12,ODD Mechanical,13,133,Good
+1,ODD Mechanical,13,129,Good
+7,Wireless,8,5,Bad
+19,ODM Mechanical,13,127,Good
+14,Nic Card,22,125,Good
+11,Nic Card,22,105,Good
+8,Keyboard_NBK,17,120,Good
+2,Memory,13,16,Bad
+2,Graphic Card,19,106,Good
+13,Keyboard_DT,17,105,Good
+12,Memory,13,81,Normal
+2,LCD,15,19,Bad
+2,CORD,10,118,Good
+7,Wireless,8,21,Bad
+19,ODM Mechanical,13,121,Good
+11,Speaker,18,128,Good
+9,Graphic Card,19,112,Good
+1,ODD,13,133,Good
+2,Memory,13,128,Good
+14,Wireless,8,135,Good
+2,Keyboard_NBK,17,138,Good
+1,Graphic Card,19,47,Bad
+2,Keyboard_NBK,17,104,Good
+15,SSD_NB_DT,8,116,Good
+11,HDD_NB_DT,8,134,Good
+4,Battery,13,22,Bad
+8,Graphic Card,19,49,Bad
+2,Memory,13,73,Normal
+17,Memory,13,144,Good
+2,LCD,15,12,Bad
+14,Security Lock,12,106,Good
+9,ODM Mechanical,13,149,Good
+14,Memory,13,121,Good
+7,SSD_NB_DT,8,31,Bad
+7,Battery,13,39,Bad
+2,LCD,15,8,Bad
+16,Memory,13,134,Good
+9,Wireless,8,14,Bad
+7,ODD Mechanical,13,26,Bad
+1,Wireless,8,106,Good
+2,CORD,10,120,Good
+2,ODM Mechanical,13,56,Normal
+1,Keyboard_NBK,17,63,Normal
+1,ODD Mechanical,13,101,Good
+1,ODD,13,100,Good
+9,HDD_NB_DT,8,23,Bad
+8,Keyboard_DT,17,143,Good
+1,Graphic Card,19,124,Good
+3,ODM Mechanical,13,133,Good
+1,ODD,13,3,Bad
+13,Battery,13,18,Bad
+2,ODD,13,33,Bad
+1,ODM Mechanical,13,69,Normal
+19,Adaptar,13,140,Good
+1,SSD_NB_DT,8,31,Bad
+2,CORD,10,130,Good
+1,Battery,13,83,Normal
+1,ODM Mechanical,13,106,Good
+11,Nic Card,22,139,Good
+8,Keyboard_DT,17,131,Good
+19,ODD Mechanical,13,36,Bad
+12,Memory,13,97,Normal
+7,ODM Mechanical,13,124,Good
+2,ODD,13,37,Bad
+3,CORD,10,115,Good
+19,ODD Mechanical,13,112,Good
+2,ODD Mechanical,13,136,Good
+1,Keyboard_NBK,17,105,Good
+1,Adaptar,13,112,Good
+18,Memory,13,110,Good
+1,Adaptar,13,138,Good
+7,Wireless,8,3,Bad
+13,CORD,10,147,Good
+1,Adaptar,13,180,Fair
+1,LCD,15,76,Normal
+12,Docking,8,123,Good
+2,Wireless,8,76,Normal
+2,Keyboard_NBK,17,133,Good
+2,Nic Card,22,143,Good
+7,Adaptar,13,65,Normal
+2,ODM Mechanical,13,138,Good
+8,Wireless,8,145,Good
+14,ODD,13,119,Good
+2,ODM Mechanical,13,119,Good
+1,ODD Mechanical,13,3,Bad
+4,Battery,13,26,Bad
+2,ODD Mechanical,13,102,Good
+7,Nic Card,22,32,Bad
+8,CORD,10,113,Good
+19,ODM Mechanical,13,35,Bad
+2,Memory,13,194,Fair
+7,Battery,13,16,Bad
+2,Memory,13,17,Bad
+19,ODM Mechanical,13,36,Bad
+8,ODD Mechanical,13,141,Good
+1,ODD Mechanical,13,28,Bad
+1,ODD Mechanical,13,147,Good
+2,Nic Card,22,140,Good
+1,ODD Mechanical,13,20,Bad
+14,Memory,13,107,Good
+12,MOUSE,8,79,Normal
+8,Keyboard_NBK,17,130,Good
+2,ODD,13,6,Bad
+2,Wireless,8,12,Bad
+1,Carrying case,13,126,Good
+16,Memory,13,106,Good
+2,ODD,13,146,Good
+2,HDD_NB_DT,8,39,Bad
+12,MOUSE,8,115,Good
+2,Memory,13,84,Normal
+14,Wireless,8,37,Bad
+13,CORD,10,100,Good
+2,Wireless,8,95,Normal
+1,SSD_NB_DT,8,2,Bad
+1,ODM Mechanical,13,82,Normal
+14,CORD,10,136,Good
+1,Wireless,8,129,Good
+2,Keyboard_NBK,17,109,Good
+13,Wireless,8,47,Bad
+1,Memory,13,66,Normal
+1,SSD_NB_DT,8,31,Bad
+1,Battery,13,90,Normal
+2,ODM Mechanical,13,29,Bad
+1,MOUSE,8,58,Normal
+1,Controller Card,22,109,Good
+11,HDD_NB_DT,8,117,Good
+14,Keyboard_NBK,17,144,Good
+13,LCD,15,125,Good
+1,CORD,10,121,Good
+8,Battery,13,10,Bad
+1,Memory,13,54,Normal
+11,Memory,13,108,Good
+1,Memory,13,104,Good
+14,HDD_NB_DT,8,39,Bad
+1,HDD_NB_DT,8,82,Normal
+1,Battery,13,114,Good
+1,HDD_NB_DT,8,146,Good
+14,ODM Mechanical,13,107,Good
+2,CORD,10,141,Good
+2,ODD,13,27,Bad
+1,Adaptar,13,80,Normal
+2,CORD,10,115,Good
+1,Adaptar,13,111,Good
+12,ODD,13,87,Normal
+1,CORD,10,96,Normal
+1,Nic Card,22,125,Good
+2,CORD,10,103,Good
+2,Wireless,8,38,Bad
+8,LCD,15,45,Bad
+8,Adaptar,13,146,Good
+2,ODD Mechanical,13,140,Good
+1,CORD,10,86,Normal
+1,ODD Mechanical,13,137,Good
+8,ODM Mechanical,13,135,Good
+11,HDD_NB_DT,8,139,Good
+1,CORD,10,103,Good
+5,ODD,13,89,Normal
+2,Keyboard_NBK,17,116,Good
+1,Projector,17,120,Good
+2,CORD,10,138,Good
+18,Network Card,13,149,Good
+2,Keyboard_NBK,17,141,Good
+1,LCD,15,3,Bad
+19,ODD Mechanical,13,123,Good
+1,HDD_NB_DT,8,79,Normal
+14,LCD,15,139,Good
+1,ODD,13,156,Fair
+2,Keyboard_NBK,17,175,Fair
+2,MOUSE,8,121,Good
+8,Battery,13,144,Good
+1,ODM Mechanical,13,69,Normal
+1,ODD Mechanical,13,142,Good
+1,Graphic Card,19,136,Good
+1,HDD_NB_DT,8,138,Good
+1,LCD,15,11,Bad
+11,Graphic Card,19,148,Good
+2,CORD,10,103,Good
+2,MOUSE,8,137,Good
+2,HDD_NB_DT,8,31,Bad
+1,ODD,13,152,Fair
+12,LCD,15,108,Good
+2,SSD_NB_DT,8,96,Normal
+1,LCD,15,86,Normal
+2,ODD,13,108,Good
+1,HDD_NB_DT,8,132,Good
+1,Graphic Card,19,138,Good
+1,MOUSE,8,61,Normal
+2,MOUSE,8,134,Good
+2,HDD_NB_DT,8,31,Bad
+5,Memory,13,120,Good
+1,ODD Mechanical,13,141,Good
+1,Keyboard_NBK,17,133,Good
+2,ODM Mechanical,13,17,Bad
+7,LCD,15,12,Bad
+1,MOUSE,8,55,Normal
+13,Wireless,8,142,Good
+2,ODD,13,51,Normal
+8,MOUSE,8,128,Good
+7,CORD,10,140,Good
+7,Memory,13,41,Bad
+12,CORD,10,72,Normal
+2,CORD,10,118,Good
+2,CORD,10,121,Good
+1,ODM Mechanical,13,122,Good
+12,MOUSE,8,60,Normal
+14,Battery,13,25,Bad
+1,ODD Mechanical,13,37,Bad
+7,LCD,15,2,Bad
+3,ODD Mechanical,13,141,Good
+1,Memory,13,199,Fair
+12,MOUSE,8,98,Normal
+14,Battery,13,45,Bad
+1,ODM Mechanical,13,102,Good
+1,Memory,13,99,Normal
+2,Adaptar,13,167,Fair
+1,ODD Mechanical,13,8,Bad
+2,ODM Mechanical,13,35,Bad
+13,ODD Mechanical,13,138,Good
+13,Battery,13,147,Good
+1,Memory,13,142,Good
+12,MOUSE,8,69,Normal
+14,Battery,13,40,Bad
+2,ODM Mechanical,13,22,Bad
+2,Battery,13,33,Bad
+7,HDD_NB_DT,8,43,Bad
+8,Wireless,8,149,Good
+1,Wireless,8,138,Good
+14,Wireless,8,112,Good
+13,Wireless,8,2,Bad
+14,LCD,15,32,Bad
+1,HDD_NB_DT,8,95,Normal
+2,ODM Mechanical,13,100,Good
+2,Keyboard_NBK,17,107,Good
+8,Memory,13,37,Bad
+12,ODD Mechanical,13,122,Good
+7,ODM Mechanical,13,138,Good
+18,Wireless,8,111,Good
+7,SSD_NB_DT,8,70,Normal
+1,Memory,13,108,Good
+1,ODM Mechanical,13,103,Good
+7,ODM Mechanical,13,149,Good
+14,Battery,13,48,Bad
+13,LCD,15,30,Bad
+9,HDD_NB_DT,8,24,Bad
+2,ODM Mechanical,13,32,Bad
+1,LCD,15,36,Bad
+2,ODM Mechanical,13,126,Good
+1,LCD,15,34,Bad
+2,CORD,10,117,Good
+9,ODD Mechanical,13,103,Good
+1,LCD,15,12,Bad
+19,ODD Mechanical,13,122,Good
+1,Memory,13,130,Good
+1,LCD,15,15,Bad
+14,ODD Mechanical,13,41,Bad
+1,MOUSE,8,118,Good
+7,Wireless,8,147,Good
+2,Keyboard_NBK,17,115,Good
+13,Memory,13,47,Bad
+1,ODD Mechanical,13,106,Good
+1,ODD,13,124,Good
+10,Nic Card,22,118,Good
+10,Keyboard_DT,17,114,Good
+18,ODD Mechanical,13,114,Good
+1,Memory,13,13,Bad
+7,Keyboard_NBK,17,121,Good
+8,Wireless,8,100,Good
+7,ODM Mechanical,13,2,Bad
+8,Battery,13,142,Good
+14,Graphic Card,19,123,Good
+14,Memory,13,5,Bad
+12,ODM Mechanical,13,108,Good
+2,ODM Mechanical,13,66,Normal
+2,HDD_NB_DT,8,176,Fair
+13,Keyboard_NBK,17,113,Good
+11,Graphic Card,19,140,Good
+14,HDD_NB_DT,8,100,Good
+1,Graphic Card,19,145,Good
+7,Adaptar,13,101,Good
+12,ODM Mechanical,13,120,Good
+14,ODD,13,134,Good
+2,ODD,13,5,Bad
+14,Memory,13,143,Good
+14,ODM Mechanical,13,48,Bad
+1,Wireless,8,22,Bad
+1,Wireless,8,129,Good
+1,HDD_NB_DT,8,140,Good
+9,Battery,13,49,Bad
+7,Wireless,8,122,Good
+1,Nic Card,22,135,Good
+2,ODM Mechanical,13,96,Normal
+2,Battery,13,98,Normal
+7,CORD,10,125,Good
+11,Graphic Card,19,116,Good
+12,LCD,15,94,Normal
+9,ODD Mechanical,13,102,Good
+1,Keyboard_NBK,17,103,Good
+14,Wireless,8,30,Bad
+2,ODD,13,41,Bad
+8,CORD,10,148,Good
+4,Wireless,8,40,Bad
+7,CORD,10,130,Good
+12,Memory,13,86,Normal
+12,CORD,10,123,Good
+8,Keyboard_NBK,17,110,Good
+4,Memory,13,12,Bad
+1,ODM Mechanical,13,147,Good
+7,ODM Mechanical,13,109,Good
+13,Keyboard_DT,17,105,Good
+1,Wireless,8,76,Normal
+18,SSD_NB_DT,8,108,Good
+19,ODD Mechanical,13,34,Bad
+4,ODD,13,29,Bad
+12,LCD,15,85,Normal
+2,ODD Mechanical,13,102,Good
+2,ODM Mechanical,13,135,Good
+14,Keyboard_NBK,17,119,Good
+1,Memory,13,39,Bad
+14,Keyboard_NBK,17,138,Good
+13,Memory,13,44,Bad
+12,ODD Mechanical,13,131,Good
+7,ODD Mechanical,13,114,Good
+1,ODM Mechanical,13,105,Good
+1,LCD,15,20,Bad
+7,Memory,13,35,Bad
+12,ODD Mechanical,13,126,Good
+1,Memory,13,172,Fair
+12,Battery,13,10,Bad
+3,ODD,13,105,Good
+18,Memory,13,130,Good
+12,Memory,13,83,Normal
+1,LCD,15,140,Good
+8,ODD Mechanical,13,133,Good
+1,ODM Mechanical,13,123,Good
+1,ODM Mechanical,13,114,Good
+12,ODM Mechanical,13,133,Good
+3,Memory,13,116,Good
+9,Wireless,8,28,Bad
+2,LCD,15,123,Good
+18,SSD_NB_DT,8,103,Good
+1,Network Card,13,103,Good
+18,Memory,13,144,Good
+2,Battery,13,86,Normal
+17,HDD_NB_DT,8,139,Good
+1,Wireless,8,131,Good
+7,Wireless,8,21,Bad
+14,Memory,13,48,Bad
+2,Memory,13,128,Good
+2,ODD Mechanical,13,177,Fair
+7,ODM Mechanical,13,115,Good
+1,Wireless,8,109,Good
+2,ODM Mechanical,13,16,Bad
+2,ODD,13,73,Normal
+8,Graphic Card,19,37,Bad
+1,CORD,10,122,Good
+8,Keyboard_DT,17,145,Good
+1,SSD_NB_DT,8,147,Good
+1,MOUSE,8,130,Good
+15,SSD_NB_DT,8,125,Good
+5,SSD_NB_DT,8,136,Good
+2,Memory,13,25,Bad
+14,Wireless,8,13,Bad
+1,Keyboard_DT,17,192,Fair
+7,ODM Mechanical,13,133,Good
+9,Memory,13,40,Bad
+1,HDD_NB_DT,8,180,Fair
+7,ODM Mechanical,13,35,Bad
+19,LCD,15,122,Good
+1,CORD,10,62,Normal
+13,ODD Mechanical,13,146,Good
+1,ODM Mechanical,13,133,Good
+8,Wireless,8,3,Bad
+1,Keyboard_DT,17,165,Fair
+9,HDD_NB_DT,8,48,Bad
+7,ODM Mechanical,13,27,Bad
+12,Adaptar,13,107,Good
+1,CORD,10,51,Normal
+1,ODM Mechanical,13,127,Good
+2,Battery,13,52,Normal
+14,ODM Mechanical,13,39,Bad
+14,ODM Mechanical,13,113,Good
+1,Memory,13,164,Fair
+19,ODM Mechanical,13,34,Bad
+1,Memory,13,146,Good
+11,Memory,13,105,Good
+1,Battery,13,147,Good
+19,ODM Mechanical,13,100,Good
+7,SSD_NB_DT,8,99,Normal
+2,HDD_NB_DT,8,117,Good
+1,Memory,13,107,Good
+2,LCD,15,134,Good
+1,LCD,15,176,Fair
+1,CORD,10,112,Good
+1,CORD,10,74,Normal
+7,Carrying Case,13,142,Good
+1,LCD,15,4,Bad
+8,ODM Mechanical,13,102,Good
+12,SSD_NB_DT,8,13,Bad
+1,Memory,13,196,Fair
+2,SSD_NB_DT,8,123,Good
+2,CORD,10,113,Good
+7,Keyboard_NBK,17,104,Good
+1,Wireless,8,65,Normal
+8,ODM Mechanical,13,136,Good
+14,ODD,13,6,Bad
+8,LCD,15,13,Bad
+2,CORD,10,106,Good
+12,Memory,13,94,Normal
+2,ODD,13,2,Bad
+1,Memory,13,125,Good
+19,Battery,13,105,Good
+1,Wireless,8,9,Bad
+2,Battery,13,6,Bad
+8,LCD,15,12,Bad
+2,CORD,10,148,Good
+9,ODM Mechanical,13,147,Good
+11,Projector,17,118,Good
+3,Network Card,13,138,Good
+1,Speaker,18,83,Normal
+9,ODD Mechanical,13,114,Good
+2,Graphic Card,19,104,Good
+7,ODM Mechanical,13,147,Good
+2,ODM Mechanical,13,26,Bad
+1,CORD,10,114,Good
+1,Speaker,18,51,Normal
+2,Nic Card,22,103,Good
+7,CORD,10,101,Good
+2,Memory,13,9,Bad
+8,ODM Mechanical,13,133,Good
+1,SSD_NB_DT,8,148,Good
+13,Memory,13,39,Bad
+5,Memory,13,126,Good
+13,ODM Mechanical,13,143,Good
+1,Keyboard_NBK,17,135,Good
+19,Memory,13,11,Bad
+2,MOUSE,8,132,Good
+7,Battery,13,50,Normal
+7,ODM Mechanical,13,70,Normal
+11,Projector,17,141,Good
+13,Memory,13,41,Bad
+1,Battery,13,49,Bad
+2,Memory,13,15,Bad
+1,ODM Mechanical,13,108,Good
+14,ODM Mechanical,13,32,Bad
+14,ODM Mechanical,13,120,Good
+8,Wireless,8,22,Bad
+8,Adaptar,13,125,Good
+1,Speaker,18,87,Normal
+1,Carrying case,13,146,Good
+2,LCD,15,13,Bad
+2,Keyboard_NBK,17,106,Good
+1,ODM Mechanical,13,190,Fair
+12,ODD Mechanical,13,115,Good
+2,ODM Mechanical,13,106,Good
+9,Graphic Card,19,127,Good
+18,Graphic Card,19,107,Good
+2,ODD Mechanical,13,122,Good
+2,Wireless,8,124,Good
+1,CORD,10,119,Good
+9,HDD_NB_DT,8,19,Bad
+7,Wireless,8,48,Bad
+7,ODM Mechanical,13,145,Good
+1,ODM Mechanical,13,98,Normal
+2,HDD_NB_DT,8,131,Good
+14,LCD,15,26,Bad
+2,Keyboard_NBK,17,132,Good
+2,ODD,13,11,Bad
+2,Speaker,18,191,Fair
+1,Memory,13,43,Bad
+1,Cable,13,139,Good
+11,HDD_NB_DT,8,149,Good
+2,Nic Card,22,101,Good
+1,ODD Mechanical,13,34,Bad
+2,Speaker,18,194,Fair
+1,ODD,13,43,Bad
+2,LCD,15,26,Bad
+12,Memory,13,27,Bad
+7,SSD_NB_DT,8,39,Bad
+1,Memory,13,59,Normal
+2,Speaker,18,10,Bad
+1,Memory,13,106,Good
+1,LCD,15,78,Normal
+1,Cable,13,147,Good
+14,Memory,13,112,Good
+1,ODD Mechanical,13,138,Good
+12,Wireless,8,33,Bad
+12,ODD Mechanical,13,106,Good
+9,ODD,13,140,Good
+16,Memory,13,137,Good
+1,Wireless,8,25,Bad
+7,ODM Mechanical,13,105,Good
+5,Memory,13,96,Normal
+18,HDD_NB_DT,8,146,Good
+2,LCD,15,48,Bad
+4,Battery,13,35,Bad
+2,LCD,15,73,Normal
+2,Keyboard_NBK,17,104,Good
+2,ODM Mechanical,13,101,Good
+1,CORD,10,96,Normal
+1,Wireless,8,185,Fair
+2,Memory,13,146,Good
+7,ODM Mechanical,13,124,Good
+7,Memory,13,8,Bad
+2,Battery,13,31,Bad
+9,Keyboard_DT,17,134,Good
+14,ODD,13,46,Bad
+1,LCD,15,33,Bad
+12,ODM Mechanical,13,12,Bad
+2,CORD,10,105,Good
+2,ODM Mechanical,13,117,Good
+3,ODD Mechanical,13,144,Good
+9,Battery,13,127,Good
+14,Keyboard_DT,17,137,Good
+2,Wireless,8,6,Bad
+1,Memory,13,125,Good
+1,Wireless,8,124,Good
+7,ODM Mechanical,13,6,Bad
+7,Wireless,8,45,Bad
+1,ODM Mechanical,13,118,Good
+8,Cable,13,131,Good
+14,Wireless,8,119,Good
+1,CORD,10,50,Normal
+2,Wireless,8,9,Bad
+8,Battery,13,134,Good
+19,MOUSE,8,111,Good
+8,ODD Mechanical,13,145,Good
+2,Adaptar,13,111,Good
+2,HDD_NB_DT,8,42,Bad
+1,CORD,10,169,Fair
+2,ODM Mechanical,13,49,Bad
+2,Keyboard_NBK,17,139,Good
+18,Graphic Card,19,142,Good
+1,ODM Mechanical,13,114,Good
+13,Wireless,8,8,Bad
+8,Wireless,8,38,Bad
+1,Memory,13,123,Good
+1,Memory,13,189,Fair
+2,ODD,13,2,Bad
+14,ODM Mechanical,13,113,Good
+14,Memory,13,21,Bad
+17,Keyboard_NBK,17,119,Good
+2,ODD,13,16,Bad
+12,CORD,10,140,Good
+11,Memory,13,134,Good
+7,ODD Mechanical,13,122,Good
+2,CORD,10,144,Good
+2,CORD,10,108,Good
+1,Adaptar,13,119,Good
+12,Memory,13,3,Bad
+17,ODD,13,119,Good
+1,SSD_NB_DT,8,36,Bad
+7,ODD,13,5,Bad
+13,ODD,13,100,Good
+7,ODD,13,4,Bad
+2,Battery,13,25,Bad
+18,Battery,13,128,Good
+19,Memory,13,35,Bad
+1,Carrying case,13,130,Good
+1,Memory,13,12,Bad
+7,ODM Mechanical,13,43,Bad
+11,Memory,13,122,Good
+8,Memory,13,49,Bad
+14,Carrying case,13,103,Good
+1,ODD,13,16,Bad
+2,Memory,13,37,Bad
+1,LCD,15,145,Good
+1,ODM Mechanical,13,167,Fair
+7,ODM Mechanical,13,136,Good
+2,ODD,13,53,Normal
+2,CORD,10,133,Good
+1,SSD_NB_DT,8,44,Bad
+1,SSD_NB_DT,8,3,Bad
+14,Wireless,8,130,Good
+2,Adaptar,13,105,Good
+9,Battery,13,128,Good
+1,ODD Mechanical,13,132,Good
+12,Keyboard_DT,17,141,Good
+2,Keyboard_NBK,17,115,Good
+14,HDD_NB_DT,8,26,Bad
+11,Graphic Card,19,128,Good
+9,Battery,13,124,Good
+18,Cable,13,115,Good
+2,ODD Mechanical,13,74,Normal
+2,ODM Mechanical,13,2,Bad
+3,ODD Mechanical,13,143,Good
+2,Graphic Card,19,109,Good
+1,CORD,10,187,Fair
+1,ODM Mechanical,13,169,Fair
+13,Keyboard_DT,17,102,Good
+12,LCD,15,38,Bad
+19,LCD,15,21,Bad
+1,SSD_NB_DT,8,104,Good
+1,SSD_NB_DT,8,125,Good
+19,LCD,15,49,Bad
+12,LCD,15,7,Bad
+1,ODM Mechanical,13,141,Good
+4,Battery,13,38,Bad
+13,ODD Mechanical,13,127,Good
+11,HDD_NB_DT,8,111,Good
+19,LCD,15,26,Bad
+1,ODD Mechanical,13,114,Good
+12,CORD,10,136,Good
+1,ODM Mechanical,13,127,Good
+16,HDD_NB_DT,8,126,Good
+18,Graphic Card,19,115,Good
+2,Memory,13,130,Good
+1,Graphic Card,19,68,Normal
+1,Battery,13,158,Fair
+6,ODM Mechanical,13,44,Bad
+7,Battery,13,28,Bad
+2,CORD,10,119,Good
+2,HDD_NB_DT,8,34,Bad
+2,HDD_NB_DT,8,146,Good
+18,Memory,13,143,Good
+7,ODM Mechanical,13,43,Bad
+2,CORD,10,96,Normal
+14,ODD,13,144,Good
+13,CORD,10,113,Good
+14,ODM Mechanical,13,26,Bad
+1,ODD Mechanical,13,127,Good
+14,Adaptar,13,100,Good
+8,ODM Mechanical,13,132,Good
+14,HDD_NB_DT,8,21,Bad
+1,Wireless,8,58,Normal
+8,CORD,10,101,Good
+9,HDD_NB_DT,8,28,Bad
+19,Wireless,8,129,Good
+17,SSD_NB_DT,8,109,Good
+14,ODD Mechanical,13,13,Bad
+7,Battery,13,4,Bad
+14,Nic Card,22,134,Good
+2,Keyboard_NBK,17,117,Good
+12,ODM Mechanical,13,120,Good
+2,Keyboard_NBK,17,108,Good
+2,Memory,13,116,Good
+1,ODD Mechanical,13,58,Normal
+12,Wireless,8,100,Good
+2,Memory,13,153,Fair
+9,Graphic Card,19,109,Good
+9,ODM Mechanical,13,124,Good
+18,ODD Mechanical,13,115,Good
+1,CORD,10,99,Normal
+14,ODD,13,142,Good
+2,Graphic Card,19,126,Good
+1,Adaptar,13,86,Normal
+8,Battery,13,121,Good
+2,LCD,15,34,Bad
+1,LCD,15,35,Bad
+1,ODD Mechanical,13,135,Good
+1,ODD Mechanical,13,166,Fair
+2,ODM Mechanical,13,37,Bad
+12,Graphic Card,19,117,Good
+12,Keyboard_NBK,17,145,Good
+11,ODD Mechanical,13,117,Good
+2,Graphic Card,19,111,Good
+7,MOUSE,8,105,Good
+9,HDD_NB_DT,8,101,Good
+4,HDD_NB_DT,8,12,Bad
+2,Adaptar,13,146,Good
+1,Battery,13,80,Normal
+2,Wireless,8,40,Bad
+2,ODM Mechanical,13,94,Normal
+2,ODM Mechanical,13,32,Bad
+1,MOUSE,8,163,Fair
+12,ODM Mechanical,13,12,Bad
+2,Memory,13,23,Bad
+2,CORD,10,102,Good
+12,ODM Mechanical,13,49,Bad
+2,Memory,13,116,Good
+2,ODD,13,146,Good
+13,ODD Mechanical,13,101,Good
+14,ODD Mechanical,13,113,Good
+8,Memory,13,6,Bad
+1,CORD,10,122,Good
+7,ODD Mechanical,13,116,Good
+1,CORD,10,122,Good
+19,ODM Mechanical,13,114,Good
+9,LCD,15,130,Good
+2,HDD_NB_DT,8,111,Good
+9,ODD Mechanical,13,132,Good
+1,ODD Mechanical,13,105,Good
+8,ODD Mechanical,13,108,Good
+1,ODM Mechanical,13,144,Good
+1,ODD Mechanical,13,47,Bad
+2,Keyboard_NBK,17,153,Fair
+1,Nic Card,22,140,Good
+12,HDD_NB_DT,8,117,Good
+19,CORD,10,114,Good
+12,ODM Mechanical,13,25,Bad
+19,Wireless,8,117,Good
+2,ODD Mechanical,13,141,Good
+4,ODD Mechanical,13,15,Bad
+7,LCD,15,107,Good
+12,CORD,10,75,Normal
+2,Battery,13,102,Good
+19,LCD,15,138,Good
+12,ODD Mechanical,13,122,Good
+12,Wireless,8,144,Good
+17,ODM Mechanical,13,107,Good
+1,ODD Mechanical,13,87,Normal
+1,ODM Mechanical,13,134,Good
+13,Adaptar,13,110,Good
+5,ODM Mechanical,13,60,Normal
+13,Wireless,8,34,Bad
+1,Memory,13,29,Bad
+9,LCD,15,147,Good
+2,ODD Mechanical,13,107,Good
+1,Battery,13,47,Bad
+1,Battery,13,148,Good
+11,SSD_NB_DT,8,146,Good
+1,Wireless,8,107,Good
+14,Battery,13,120,Good
+2,Wireless,8,96,Normal
+1,Wireless,8,16,Bad
+2,CORD,10,134,Good
+16,Memory,13,131,Good
+2,Memory,13,144,Good
+2,Wireless,8,82,Normal
+2,Nic Card,22,120,Good
+1,SSD_NB_DT,8,122,Good
+8,Adaptar,13,106,Good
+14,Carrying case,13,131,Good
+1,Graphic Card,19,103,Good
+2,CORD,10,99,Normal
+1,Memory,13,105,Good
+9,ODD,13,102,Good
+12,ODM Mechanical,13,129,Good
+2,CORD,10,73,Normal
+1,ODD Mechanical,13,11,Bad
+2,CORD,10,114,Good
+12,LCD,15,135,Good
+14,Graphic Card,19,116,Good
+1,ODD,13,145,Good
+7,ODM Mechanical,13,7,Bad
+2,Graphic Card,19,129,Good
+1,Memory,13,177,Fair
+1,MOUSE,8,109,Good
+2,ODD,13,13,Bad
+2,ODD Mechanical,13,110,Good
+2,LCD,15,40,Bad
+1,ODD,13,49,Bad
+1,SSD_NB_DT,8,109,Good
+18,Memory,13,136,Good
+2,Wireless,8,121,Good
+16,ODD,13,142,Good
+14,CORD,10,137,Good
+8,HDD_NB_DT,8,29,Bad
+14,Graphic Card,19,144,Good
+9,HDD_NB_DT,8,1,Bad
+1,Adaptar,13,84,Normal
+1,MOUSE,8,198,Fair
+12,ODD Mechanical,13,104,Good
+7,Battery,13,39,Bad
+2,Memory,13,79,Normal
+2,CORD,10,135,Good
+8,Wireless,8,9,Bad
+1,MOUSE,8,127,Good
+14,Speaker,18,148,Good
+1,Graphic Card,19,122,Good
+1,Graphic Card,19,71,Normal
+1,ODD Mechanical,13,107,Good
+8,CORD,10,109,Good
+2,CORD,10,142,Good
+7,Memory,13,15,Bad
+12,HDD_NB_DT,8,107,Good
+2,CORD,10,84,Normal
+14,LCD,15,31,Bad
+9,ODM Mechanical,13,149,Good
+11,HDD_NB_DT,8,109,Good
+2,Memory,13,46,Bad
+1,ODD Mechanical,13,144,Good
+1,Memory,13,148,Good
+1,Battery,13,54,Normal
+9,ODM Mechanical,13,147,Good
+1,LCD,15,130,Good
+14,ODD,13,140,Good
+8,Graphic Card,19,101,Good
+14,Keyboard_NBK,17,110,Good
+1,Memory,13,118,Good
+7,Battery,13,116,Good
+1,Wireless,8,140,Good
+1,Carrying case,13,109,Good
+1,ODD Mechanical,13,103,Good
+1,Battery,13,103,Good
+1,ODD Mechanical,13,143,Good
+1,Memory,13,46,Bad
+17,SSD_NB_DT,8,106,Good
+1,Keyboard_DT,17,89,Normal
+1,ODD,13,67,Normal
+7,ODM Mechanical,13,145,Good
+8,Memory,13,25,Bad
+1,ODM Mechanical,13,136,Good
+2,CORD,10,146,Good
+3,ODD Mechanical,13,112,Good
+1,Graphic Card,19,117,Good
+1,Memory,13,132,Good
+2,ODD Mechanical,13,136,Good
+2,Keyboard_NBK,17,108,Good
+1,Wireless,8,104,Good
+9,Keyboard_DT,17,133,Good
+9,Keyboard_DT,17,140,Good
+2,HDD_NB_DT,8,134,Good
+2,CORD,10,136,Good
+16,Memory,13,107,Good
+17,HDD_NB_DT,8,107,Good
+2,CORD,10,112,Good
+7,Keyboard_DT,17,124,Good
+8,CORD,10,103,Good
+2,CORD,10,121,Good
+2,Battery,13,136,Good
+14,Wireless,8,15,Bad
+12,ODD Mechanical,13,142,Good
+1,Graphic Card,19,120,Good
+8,Memory,13,28,Bad
+14,CORD,10,134,Good
+11,Memory,13,103,Good
+1,ODM Mechanical,13,114,Good
+3,Memory,13,135,Good
+2,LCD,15,53,Normal
+1,ODD Mechanical,13,10,Bad
+2,CORD,10,123,Good
+8,Battery,13,147,Good
+12,MOUSE,8,98,Normal
+1,ODD Mechanical,13,9,Bad
+2,Keyboard_NBK,17,114,Good
+8,Adaptar,13,126,Good
+9,HDD_NB_DT,8,39,Bad
+1,HDD_NB_DT,8,4,Bad
+2,Keyboard_NBK,17,177,Fair
+16,SSD_NB_DT,8,108,Good
+14,Graphic Card,19,139,Good
+2,Keyboard_NBK,17,122,Good
+1,Controller Card,22,148,Good
+1,Memory,13,119,Good
+1,Graphic Card,19,78,Normal
+2,CORD,10,120,Good
+2,Keyboard_NBK,17,114,Good
+2,HDD_NB_DT,8,135,Good
+2,Wireless,8,121,Good
+19,Keyboard_DT,17,106,Good
+11,Graphic Card,19,137,Good
+2,ODM Mechanical,13,47,Bad
+1,Memory,13,84,Normal
+14,ODM Mechanical,13,111,Good
+1,ODD,13,76,Normal
+12,HDD_NB_DT,8,21,Bad
+1,Graphic Card,19,137,Good
+14,ODM Mechanical,13,137,Good
+1,ODD Mechanical,13,69,Normal
+2,Memory,13,100,Good
+2,Docking,8,141,Good
+2,CORD,10,109,Good
+1,ODM Mechanical,13,115,Good
+14,Memory,13,1,Bad
+9,Graphic Card,19,116,Good
+9,Graphic Card,19,13,Bad
+1,Graphic Card,19,124,Good
+9,Graphic Card,19,37,Bad
+1,HDD_NB_DT,8,23,Bad
+1,ODD Mechanical,13,88,Normal
+8,Carrying case,13,140,Good
+2,SSD_NB_DT,8,36,Bad
+1,ODD,13,82,Normal
+1,ODM Mechanical,13,142,Good
+1,Wireless,8,116,Good
+14,ODD Mechanical,13,136,Good
+6,Wireless,8,58,Normal
+19,CORD,10,101,Good
+1,ODD,13,53,Normal
+18,ODD Mechanical,13,130,Good
+1,Wireless,8,163,Fair
+11,Nic Card,22,147,Good
+8,Wireless,8,47,Bad
+1,Memory,13,18,Bad
+2,HDD_NB_DT,8,110,Good
+2,ODM Mechanical,13,165,Fair
+12,ODD Mechanical,13,115,Good
+1,Memory,13,46,Bad
+9,ODD Mechanical,13,107,Good
+1,MOUSE,8,98,Normal
+8,HDD_NB_DT,8,9,Bad
+9,ODM Mechanical,13,147,Good
+2,Battery,13,39,Bad
+2,ODD,13,38,Bad
+1,ODD,13,125,Good
+1,Adaptar,13,132,Good
+1,Memory,13,131,Good
+2,ODD Mechanical,13,16,Bad
+1,Network Card,13,105,Good
+2,CORD,10,136,Good
+7,Graphic Card,19,137,Good
+7,ODD Mechanical,13,117,Good
+2,Memory,13,82,Normal
+1,ODD Mechanical,13,25,Bad
+1,MOUSE,8,153,Fair
+1,LCD,15,80,Normal
+2,ODM Mechanical,13,153,Fair
+1,Wireless,8,145,Good
+2,ODD Mechanical,13,12,Bad
+11,Wireless,8,149,Good
+2,ODD Mechanical,13,117,Good
+1,ODD Mechanical,13,148,Good
+7,LCD,15,19,Bad
+7,Keyboard_DT,17,145,Good
+11,Wireless,8,107,Good
+9,Battery,13,127,Good
+13,ODD Mechanical,13,117,Good
+2,ODM Mechanical,13,61,Normal
+2,CORD,10,140,Good
+2,LCD,15,22,Bad
+11,SSD_NB_DT,8,117,Good
+1,ODD Mechanical,13,81,Normal
+2,Keyboard_NBK,17,107,Good
+1,Memory,13,40,Bad
+1,SSD_NB_DT,8,3,Bad
+1,ODD Mechanical,13,6,Bad
+8,Battery,13,44,Bad
+1,MOUSE,8,195,Fair
+2,ODD Mechanical,13,115,Good
+17,HDD_NB_DT,8,145,Good
+1,Battery,13,22,Bad
+2,HDD_NB_DT,8,134,Good
+14,ODD Mechanical,13,131,Good
+1,ODM Mechanical,13,126,Good
+1,Graphic Card,19,108,Good
+1,Memory,13,19,Bad
+9,Battery,13,129,Good
+1,Memory,13,12,Bad
+2,SSD_NB_DT,8,137,Good
+1,ODD,13,70,Normal
+5,HDD_NB_DT,8,57,Normal
+1,Keyboard_DT,17,119,Good
+1,ODD,13,62,Normal
+2,CORD,10,115,Good
+12,MOUSE,8,70,Normal
+2,Keyboard_NBK,17,156,Fair
+2,ODM Mechanical,13,22,Bad
+2,Nic Card,22,103,Good
+9,Battery,13,34,Bad
+1,ODD Mechanical,13,45,Bad
+1,ODM Mechanical,13,19,Bad
+11,Network Card,13,149,Good
+2,SSD_NB_DT,8,16,Bad
+1,ODD,13,75,Normal
+8,ODD Mechanical,13,101,Good
+1,Battery,13,116,Good
+18,Graphic Card,19,126,Good
+2,Battery,13,24,Bad
+1,ODM Mechanical,13,123,Good
+19,ODM Mechanical,13,134,Good
+19,ODM Mechanical,13,136,Good
+19,Wireless,8,140,Good
+2,CORD,10,136,Good
+14,Speaker,18,121,Good
+2,HDD_NB_DT,8,45,Bad
+3,Battery,13,125,Good
+2,CORD,10,149,Good
+2,Keyboard_NBK,17,119,Good
+1,ODM Mechanical,13,185,Fair
+1,Wireless,8,82,Normal
+7,ODD,13,134,Good
+2,Keyboard_NBK,17,122,Good
+1,Graphic Card,19,56,Normal
+1,MOUSE,8,158,Fair
+9,Wireless,8,137,Good
+16,Memory,13,139,Good
+2,ODM Mechanical,13,76,Normal
+2,Nic Card,22,130,Good
+9,ODD,13,29,Bad
+2,ODM Mechanical,13,93,Normal
+12,ODD,13,126,Good
+12,MOUSE,8,136,Good
+9,Memory,13,141,Good
+2,Keyboard_NBK,17,134,Good
+1,Carrying case,13,129,Good
+9,Keyboard_NBK,17,124,Good
+1,ODD,13,98,Normal
+14,ODD Mechanical,13,125,Good
+12,ODD,13,132,Good
+7,CORD,10,140,Good
+19,ODD,13,4,Bad
+13,HDD_NB_DT,8,36,Bad
+1,ODD,13,71,Normal
+5,HDD_NB_DT,8,83,Normal
+1,SSD_NB_DT,8,114,Good
+19,Adaptar,13,135,Good
+1,CORD,10,173,Fair
+1,Keyboard_NBK,17,107,Good
+19,Wireless,8,142,Good
+7,Wireless,8,2,Bad
+12,Graphic Card,19,122,Good
+14,ODD,13,111,Good
+2,Battery,13,4,Bad
+12,HDD_NB_DT,8,47,Bad
+1,HDD_NB_DT,8,5,Bad
+2,SSD_NB_DT,8,6,Bad
+11,HDD_NB_DT,8,105,Good
+1,ODD,13,51,Normal
+2,CORD,10,149,Good
+9,Carrying case,13,143,Good
+2,Battery,13,40,Bad
+7,LCD,15,118,Good
+14,Memory,13,21,Bad
+2,Memory,13,45,Bad
+13,ODD Mechanical,13,131,Good
+2,Battery,13,33,Bad
+7,ODM Mechanical,13,143,Good
+1,MOUSE,8,170,Fair
+8,HDD_NB_DT,8,10,Bad
+14,ODD Mechanical,13,24,Bad
+1,ODD Mechanical,13,14,Bad
+1,SSD_NB_DT,8,124,Good
+2,ODM Mechanical,13,149,Good
+13,Keyboard_DT,17,136,Good
+8,ODM Mechanical,13,144,Good
+1,ODD Mechanical,13,81,Normal
+2,Keyboard_NBK,17,127,Good
+8,Adaptar,13,140,Good
+1,Memory,13,15,Bad
+16,Memory,13,138,Good
+12,CORD,10,123,Good
+5,SSD_NB_DT,8,149,Good
+1,Memory,13,146,Good
+18,HDD_NB_DT,8,128,Good
+1,ODM Mechanical,13,126,Good
+13,Carrying case,13,139,Good
+1,CORD,10,193,Fair
+19,Wireless,8,127,Good
+1,ODD,13,59,Normal
+2,CORD,10,145,Good
+1,Battery,13,116,Good
+5,HDD_NB_DT,8,53,Normal
+1,Adaptar,13,129,Good
+3,Nic Card,22,131,Good
+14,CORD,10,118,Good
+2,Adaptar,13,134,Good
+1,ODD,13,128,Good
+1,Carrying case,13,138,Good
+9,ODD,13,119,Good
+19,HDD_NB_DT,8,39,Bad
+19,ODD,13,31,Bad
+7,ODM Mechanical,13,24,Bad
+14,Wireless,8,10,Bad
+8,Projector,17,121,Good
+12,ODD Mechanical,13,147,Good
+2,ODM Mechanical,13,69,Normal
+18,Battery,13,110,Good
+8,Memory,13,22,Bad
+7,ODM Mechanical,13,15,Bad
+18,HDD_NB_DT,8,101,Good
+9,Battery,13,141,Good
+19,ODD Mechanical,13,14,Bad
+12,Adaptar,13,116,Good
+1,ODM Mechanical,13,183,Fair
+1,Wireless,8,138,Good
+1,ODD,13,43,Bad
+2,Carrying case,13,138,Good
+1,ODM Mechanical,13,72,Normal
+14,ODD Mechanical,13,30,Bad
+14,Nic Card,22,107,Good
+1,Wireless,8,92,Normal
+8,LCD,15,18,Bad
+2,Memory,13,20,Bad
+1,Battery,13,25,Bad
+2,LCD,15,2,Bad
+2,ODD Mechanical,13,141,Good
+18,HDD_NB_DT,8,144,Good
+12,ODD Mechanical,13,116,Good
+2,Keyboard_NBK,17,122,Good
+19,HDD_NB_DT,8,124,Good
+2,CORD,10,59,Normal
+11,ODD Mechanical,13,123,Good
+1,Battery,13,112,Good
+14,Speaker,18,140,Good
+1,CORD,10,73,Normal
+1,LCD,15,27,Bad
+2,CORD,10,118,Good
+8,CORD,10,140,Good
+1,ODD Mechanical,13,96,Normal
+1,ODD Mechanical,13,157,Fair
+2,CORD,10,139,Good
+7,HDD_NB_DT,8,110,Good
+8,ODM Mechanical,13,40,Bad
+7,ODM Mechanical,13,23,Bad
+8,ODD,13,24,Bad
+9,ODD Mechanical,13,26,Bad
+13,Adaptar,13,119,Good
+19,ODD,13,1,Bad
+2,Keyboard_NBK,17,143,Good
+2,Wireless,8,57,Normal
+12,Adaptar,13,123,Good
+1,Adaptar,13,190,Fair
+8,Adaptar,13,132,Good
+5,SSD_NB_DT,8,116,Good
+2,ODD Mechanical,13,191,Fair
+8,ODD,13,49,Bad
+2,CORD,10,127,Good
+12,ODD,13,116,Good
+10,Memory,13,134,Good
+1,ODD,13,20,Bad
+2,Wireless,8,149,Good
+1,Graphic Card,19,104,Good
+1,SSD_NB_DT,8,145,Good
+9,ODD,13,31,Bad
+2,SSD_NB_DT,8,39,Bad
+1,HDD_NB_DT,8,59,Normal
+2,ODM Mechanical,13,132,Good
+2,ODD,13,177,Fair
+8,Keyboard_DT,17,137,Good
+19,ODD Mechanical,13,125,Good
+7,Graphic Card,19,141,Good
+11,Nic Card,22,136,Good
+1,Wireless,8,123,Good
+1,HDD_NB_DT,8,149,Good
+18,Memory,13,134,Good
+1,Network Card,13,105,Good
+18,Graphic Card,19,121,Good
+14,CORD,10,116,Good
+2,ODM Mechanical,13,140,Good
+19,Keyboard_DT,17,146,Good
+2,Wireless,8,76,Normal
+12,ODD Mechanical,13,134,Good
+8,Docking,8,101,Good
+2,ODM Mechanical,13,105,Good
+14,ODD Mechanical,13,13,Bad
+2,Wireless,8,79,Normal
+14,ODD,13,123,Good
+2,SSD_NB_DT,8,3,Bad
+14,Memory,13,128,Good
+1,ODD Mechanical,13,108,Good
+19,ODM Mechanical,13,146,Good
+5,Adaptar,13,50,Normal
+1,Memory,13,55,Normal
+1,ODM Mechanical,13,65,Normal
+14,Wireless,8,143,Good
+14,ODD,13,113,Good
+1,HDD_NB_DT,8,124,Good
+2,Keyboard_NBK,17,147,Good
+2,Keyboard_NBK,17,104,Good
+2,Keyboard_NBK,17,101,Good
+2,ODM Mechanical,13,94,Normal
+8,Memory,13,6,Bad
+8,LCD,15,123,Good
+1,Adaptar,13,95,Normal
+1,ODD,13,140,Good
+1,HDD_NB_DT,8,65,Normal
+1,Keyboard_NBK,17,120,Good
+12,Graphic Card,19,149,Good
+2,Docking,8,125,Good
+19,LCD,15,145,Good
+1,ODM Mechanical,13,62,Normal
+9,ODD Mechanical,13,129,Good
+2,SSD_NB_DT,8,12,Bad
+1,ODD,13,95,Normal
+14,ODD,13,146,Good
+2,ODM Mechanical,13,138,Good
+1,ODM Mechanical,13,125,Good
+14,Nic Card,22,135,Good
+8,Memory,13,37,Bad
+1,Memory,13,138,Good
+14,Wireless,8,14,Bad
+1,Memory,13,118,Good
+2,ODD,13,188,Fair
+1,HDD_NB_DT,8,52,Normal
+1,Carrying Case,13,136,Good
+1,ODM Mechanical,13,74,Normal
+1,MOUSE,8,160,Fair
+14,ODM Mechanical,13,116,Good
+12,Keyboard_NBK,17,146,Good
+12,ODD Mechanical,13,37,Bad
+4,Battery,13,30,Bad
+2,ODD,13,42,Bad
+1,Keyboard_NBK,17,140,Good
+12,ODM Mechanical,13,140,Good
+14,Nic Card,22,117,Good
+7,Wireless,8,17,Bad
+2,Adaptar,13,88,Normal
+2,Keyboard_NBK,17,124,Good
+1,ODM Mechanical,13,76,Normal
+14,LCD,15,108,Good
+3,Wireless,8,113,Good
+2,Wireless,8,48,Bad
+8,Adaptar,13,144,Good
+1,ODD,13,120,Good
+1,Adaptar,13,182,Fair
+1,ODD,13,111,Good
+2,CORD,10,138,Good
+14,ODD,13,127,Good
+2,Docking,8,128,Good
+2,Keyboard_NBK,17,140,Good
+2,CORD,10,52,Normal
+2,Adaptar,13,108,Good
+1,Memory,13,63,Normal
+14,HDD_NB_DT,8,28,Bad
+9,ODD Mechanical,13,107,Good
+1,CORD,10,132,Good
+2,ODD,13,174,Fair
+1,ODM Mechanical,13,147,Good
+2,Graphic Card,19,149,Good
+1,LCD,15,72,Normal
+1,ODD,13,76,Normal
+12,ODD Mechanical,13,116,Good
+1,ODD,13,96,Normal
+2,CORD,10,129,Good
+8,Keyboard_NBK,17,115,Good
+2,CORD,10,109,Good
+1,ODD,13,64,Normal
+1,LCD,15,89,Normal
+18,Graphic Card,19,147,Good
+1,ODM Mechanical,13,62,Normal
+12,ODM Mechanical,13,141,Good
+12,Adaptar,13,113,Good
+8,Wireless,8,124,Good
+12,ODD Mechanical,13,131,Good
+2,Battery,13,43,Bad
+11,Graphic Card,19,124,Good
+2,ODD Mechanical,13,12,Bad
+2,Battery,13,39,Bad
+2,ODD Mechanical,13,149,Good
+14,ODD Mechanical,13,127,Good
+1,ODM Mechanical,13,86,Normal
+1,Wireless,8,22,Bad
+2,Adaptar,13,50,Normal
+18,Wireless,8,110,Good
+1,Nic Card,22,142,Good
+1,Memory,13,88,Normal
+12,ODD,13,139,Good
+13,Adaptar,13,146,Good
+18,Memory,13,143,Good
+7,ODD Mechanical,13,112,Good
+1,LCD,15,115,Good
+1,SSD_NB_DT,8,110,Good
+1,Memory,13,147,Good
+18,ODD Mechanical,13,120,Good
+2,CORD,10,112,Good
+3,HDD_NB_DT,8,140,Good
+17,HDD_NB_DT,8,143,Good
+13,ODD Mechanical,13,118,Good
+1,Memory,13,8,Bad
+1,LCD,15,176,Fair
+6,LCD,15,96,Normal
+2,Memory,13,139,Good
+7,ODD Mechanical,13,9,Bad
+14,Adaptar,13,141,Good
+1,Network Card,13,145,Good
+8,ODM Mechanical,13,14,Bad
+18,SSD_NB_DT,8,133,Good
+5,HDD_NB_DT,8,132,Good
+2,Docking,8,114,Good
+2,Battery,13,31,Bad
+2,CORD,10,126,Good
+1,ODD Mechanical,13,104,Good
+1,Adaptar,13,125,Good
+1,ODM Mechanical,13,145,Good
+18,Graphic Card,19,127,Good
+11,SSD_NB_DT,8,120,Good
+1,Speaker,18,87,Normal
+2,ODM Mechanical,13,110,Good
+5,Memory,13,133,Good
+1,ODM Mechanical,13,138,Good
+9,ODD Mechanical,13,127,Good
+8,CORD,10,143,Good
+2,LCD,15,109,Good
+1,CORD,10,137,Good
+4,Wireless,8,45,Bad
+1,CORD,10,84,Normal
+7,ODM Mechanical,13,33,Bad
+1,CORD,10,147,Good
+18,Memory,13,133,Good
+6,ODD,13,72,Normal
+3,Battery,13,117,Good
+1,ODM Mechanical,13,144,Good
+8,ODD Mechanical,13,128,Good
+6,ODD,13,75,Normal
+1,HDD_NB_DT,8,117,Good
+2,Memory,13,18,Bad
+2,CORD,10,132,Good
+11,SSD_NB_DT,8,130,Good
+2,ODD Mechanical,13,137,Good
+2,Keyboard_NBK,17,138,Good
+13,ODM Mechanical,13,126,Good
+1,ODM Mechanical,13,6,Bad
+2,Memory,13,31,Bad
+1,ODD Mechanical,13,69,Normal
+1,ODD,13,84,Normal
+1,ODD Mechanical,13,67,Normal
+1,ODM Mechanical,13,137,Good
+2,Battery,13,198,Fair
+2,Adaptar,13,122,Good
+13,CORD,10,111,Good
+19,ODD Mechanical,13,137,Good
+5,Memory,13,97,Normal
+8,HDD_NB_DT,8,13,Bad
+19,Battery,13,130,Good
+1,ODD Mechanical,13,27,Bad
+2,ODD Mechanical,13,139,Good
+2,ODM Mechanical,13,95,Normal
+1,Battery,13,132,Good
+17,SSD_NB_DT,8,115,Good
+8,HDD_NB_DT,8,129,Good
+1,ODD Mechanical,13,138,Good
+2,Battery,13,158,Fair
+14,Memory,13,5,Bad
+8,ODM Mechanical,13,137,Good
+2,HDD_NB_DT,8,26,Bad
+19,Wireless,8,106,Good
+1,ODD Mechanical,13,164,Fair
+7,LCD,15,42,Bad
+1,CORD,10,113,Good
+1,ODD Mechanical,13,28,Bad
+16,SSD_NB_DT,8,134,Good
+2,ODM Mechanical,13,182,Fair
+8,Speaker,18,2,Bad
+1,LCD,15,8,Bad
+2,Keyboard_NBK,17,94,Normal
+5,ODM Mechanical,13,67,Normal
+19,Adaptar,13,108,Good
+1,ODD Mechanical,13,135,Good
+8,Keyboard_DT,17,130,Good
+1,Memory,13,128,Good
+11,Nic Card,22,114,Good
+1,Battery,13,111,Good
+18,SSD_NB_DT,8,133,Good
+1,HDD_NB_DT,8,67,Normal
+7,ODD Mechanical,13,121,Good
+1,Memory,13,135,Good
+2,Wireless,8,102,Good
+12,HDD_NB_DT,8,125,Good
+9,SSD_NB_DT,8,2,Bad
+2,HDD_NB_DT,8,39,Bad
+14,HDD_NB_DT,8,11,Bad
+5,ODM Mechanical,13,108,Good
+1,ODM Mechanical,13,135,Good
+2,ODM Mechanical,13,82,Normal
+2,Docking,8,142,Good
+7,HDD_NB_DT,8,2,Bad
+2,ODM Mechanical,13,45,Bad
+8,HDD_NB_DT,8,47,Bad
+9,HDD_NB_DT,8,32,Bad
+2,ODD,13,31,Bad
+19,ODD Mechanical,13,27,Bad
+1,Memory,13,65,Normal
+12,Keyboard_NBK,17,127,Good
+17,SSD_NB_DT,8,123,Good
+1,SSD_NB_DT,8,8,Bad
+1,CORD,10,143,Good
+1,MOUSE,8,87,Normal
+2,ODM Mechanical,13,113,Good
+1,ODD,13,103,Good
+13,ODD Mechanical,13,125,Good
+1,ODM Mechanical,13,135,Good
+13,ODD,13,145,Good
+19,Keyboard_DT,17,145,Good
+1,MOUSE,8,106,Good
+1,ODD,13,122,Good
+8,Wireless,8,33,Bad
+1,LCD,15,169,Fair
+1,SSD_NB_DT,8,103,Good
+2,ODM Mechanical,13,171,Fair
+2,Battery,13,143,Good
+2,ODD,13,124,Good
+1,ODM Mechanical,13,136,Good
+2,CORD,10,118,Good
+7,LCD,15,107,Good
+14,Keyboard_DT,17,144,Good
+2,Memory,13,100,Good
+12,Memory,13,40,Bad
+11,Battery,13,121,Good
+7,Keyboard_DT,17,100,Good
+1,Memory,13,194,Fair
+1,Keyboard_NBK,17,111,Good
+1,Keyboard_NBK,17,109,Good
+1,Memory,13,57,Normal
+1,Memory,13,71,Normal
+12,ODM Mechanical,13,78,Normal
+14,Wireless,8,5,Bad
+14,LCD,15,118,Good
+1,Cable,13,137,Good
+2,ODM Mechanical,13,92,Normal
+14,Battery,13,26,Bad
+1,Memory,13,111,Good
+12,ODM Mechanical,13,85,Normal
+11,Battery,13,128,Good
+12,ODM Mechanical,13,117,Good
+2,ODM Mechanical,13,106,Good
+14,Graphic Card,19,122,Good
+1,SSD_NB_DT,8,126,Good
+14,ODD,13,125,Good
+14,ODM Mechanical,13,102,Good
+8,ODD Mechanical,13,103,Good
+1,ODD,13,139,Good
+14,Memory,13,46,Bad
+1,CORD,10,90,Normal
+1,Keyboard_DT,17,135,Good
+2,HDD_NB_DT,8,120,Good
+12,Memory,13,52,Normal
+1,CORD,10,61,Normal
+9,ODM Mechanical,13,123,Good
+19,Graphic Card,19,147,Good
+2,Keyboard_NBK,17,157,Fair
+7,ODD Mechanical,13,126,Good
+4,ODD Mechanical,13,4,Bad
+1,Wireless,8,121,Good
+18,SSD_NB_DT,8,115,Good
+1,Carrying case,13,107,Good
+14,Battery,13,114,Good
+17,CORD,10,138,Good
+18,Memory,13,117,Good
+18,Memory,13,100,Good
+8,Memory,13,13,Bad
+2,Graphic Card,19,109,Good
+9,Nic Card,22,112,Good
+1,Wireless,8,119,Good
+9,Wireless,8,16,Bad
+7,Battery,13,55,Normal
+2,Memory,13,155,Fair
+1,CORD,10,87,Normal
+13,Keyboard_DT,17,102,Good
+19,Graphic Card,19,117,Good
+5,Nic Card,22,87,Normal
+14,Memory,13,100,Good
+16,SSD_NB_DT,8,117,Good
+1,Graphic Card,19,52,Normal
+1,ODM Mechanical,13,131,Good
+8,ODD,13,24,Bad
+1,CORD,10,116,Good
+2,Keyboard_NBK,17,116,Good
+2,CORD,10,111,Good
+1,Speaker,18,68,Normal
+1,Adaptar,13,52,Normal
+1,Memory,13,122,Good
+7,ODD,13,5,Bad
+1,LCD,15,25,Bad
+13,MOUSE,8,125,Good
+18,Cable,13,105,Good
+1,ODD,13,109,Good
+2,CORD,10,53,Normal
+19,ODD,13,28,Bad
+7,Wireless,8,125,Good
+2,Projector,17,127,Good
+1,Graphic Card,19,62,Normal
+9,ODM Mechanical,13,142,Good
+14,LCD,15,145,Good
+1,Memory,13,159,Fair
+2,ODM Mechanical,13,4,Bad
+1,Cable,13,135,Good
+9,ODM Mechanical,13,125,Good
+1,ODD Mechanical,13,25,Bad
+9,ODM Mechanical,13,127,Good
+2,CORD,10,114,Good
+7,LCD,15,25,Bad
+1,ODD Mechanical,13,41,Bad
+1,Adaptar,13,137,Good
+12,CORD,10,112,Good
+7,ODD Mechanical,13,116,Good
+7,Battery,13,89,Normal
+1,MOUSE,8,77,Normal
+8,ODD,13,13,Bad
+1,HDD_NB_DT,8,71,Normal
+1,ODD Mechanical,13,37,Bad
+2,ODM Mechanical,13,192,Fair
+9,Battery,13,18,Bad
+18,Memory,13,140,Good
+2,Wireless,8,32,Bad
+1,Speaker,18,93,Normal
+12,ODM Mechanical,13,103,Good
+2,Keyboard_NBK,17,138,Good
+7,Wireless,8,14,Bad
+7,Keyboard_NBK,17,108,Good
+1,Controller Card,22,113,Good
+1,CORD,10,131,Good
+8,ODD Mechanical,13,125,Good
+7,Battery,13,56,Normal
+19,ODD Mechanical,13,139,Good
+12,Memory,13,30,Bad
+1,HDD_NB_DT,8,137,Good
+8,Keyboard_NBK,17,129,Good
+9,CORD,10,114,Good
+2,CORD,10,140,Good
+17,HDD_NB_DT,8,130,Good
+18,Memory,13,147,Good
+9,ODD Mechanical,13,148,Good
+14,CORD,10,100,Good
+2,ODM Mechanical,13,30,Bad
+7,ODM Mechanical,13,47,Bad
+2,Graphic Card,19,137,Good
+1,Wireless,8,154,Fair
+18,Graphic Card,19,123,Good
+14,ODD Mechanical,13,114,Good
+5,MOUSE,8,56,Normal
+2,Graphic Card,19,120,Good
+1,Battery,13,117,Good
+5,MOUSE,8,67,Normal
+7,ODM Mechanical,13,126,Good
+9,ODD,13,134,Good
+18,Security Lock,12,136,Good
+2,ODM Mechanical,13,110,Good
+1,ODM Mechanical,13,44,Bad
+2,Graphic Card,19,119,Good
+1,ODD,13,129,Good
+3,ODD Mechanical,13,146,Good
+8,HDD_NB_DT,8,29,Bad
+7,ODM Mechanical,13,17,Bad
+12,Wireless,8,4,Bad
+12,ODD,13,45,Bad
+6,ODD,13,62,Normal
+7,CORD,10,107,Good
+2,Keyboard_NBK,17,116,Good
+1,LCD,15,187,Fair
+19,ODD Mechanical,13,135,Good
+12,Wireless,8,3,Bad
+2,ODM Mechanical,13,17,Bad
+1,CORD,10,148,Good
+14,Nic Card,22,125,Good
+19,ODM Mechanical,13,138,Good
+12,Memory,13,42,Bad
+19,Graphic Card,19,119,Good
+7,Wireless,8,135,Good
+19,LCD,15,24,Bad
+7,ODD,13,7,Bad
+2,ODD,13,8,Bad
+1,CORD,10,92,Normal
+6,ODD,13,98,Normal
+6,ODD,13,97,Normal
+9,ODD Mechanical,13,123,Good
+2,ODD,13,99,Normal
+12,ODD,13,32,Bad
+12,LCD,15,149,Good
+11,SSD_NB_DT,8,124,Good
+6,ODD,13,60,Normal
+14,ODD Mechanical,13,106,Good
+14,Keyboard_NBK,17,133,Good
+2,Keyboard_NBK,17,159,Fair
+7,Memory,13,117,Good
+1,LCD,15,140,Good
+1,ODD Mechanical,13,100,Good
+9,Wireless,8,17,Bad
+2,Adaptar,13,149,Good
+6,CORD,10,72,Normal
+2,CORD,10,125,Good
+13,ODM Mechanical,13,130,Good
+8,LCD,15,22,Bad
+18,Graphic Card,19,104,Good
+2,ODM Mechanical,13,74,Normal
+1,SSD_NB_DT,8,145,Good
+14,Memory,13,10,Bad
+8,ODD Mechanical,13,144,Good
+12,Wireless,8,124,Good
+12,Memory,13,5,Bad
+18,CORD,10,131,Good
+1,Adaptar,13,73,Normal
+1,Graphic Card,19,109,Good
+1,Memory,13,6,Bad
+2,Memory,13,117,Good
+12,Keyboard_NBK,17,116,Good
+3,ODD Mechanical,13,132,Good
+1,ODD,13,66,Normal
+11,Network Card,13,130,Good
+7,Battery,13,45,Bad
+1,ODD,13,126,Good
+7,ODM Mechanical,13,36,Bad
+8,Keyboard_NBK,17,147,Good
+1,Wireless,8,150,Fair
+14,Wireless,8,24,Bad
+2,Nic Card,22,127,Good
+8,ODD Mechanical,13,134,Good
+13,ODD,13,106,Good
+12,Memory,13,48,Bad
+1,Keyboard_DT,17,142,Good
+11,SSD_NB_DT,8,100,Good
+12,Memory,13,48,Bad
+2,Network Card,13,106,Good
+2,CORD,10,143,Good
+2,Adaptar,13,149,Good
+1,Graphic Card,19,125,Good
+19,Battery,13,131,Good
+9,ODD Mechanical,13,148,Good
+2,CORD,10,90,Normal
+14,Wireless,8,35,Bad
+7,ODM Mechanical,13,113,Good
+1,HDD_NB_DT,8,56,Normal
+2,CORD,10,136,Good
+2,HDD_NB_DT,8,128,Good
+2,Memory,13,139,Good
+1,CORD,10,129,Good
+1,ODM Mechanical,13,60,Normal
+2,CORD,10,142,Good
+9,Wireless,8,40,Bad
+2,ODM Mechanical,13,19,Bad
+14,Battery,13,40,Bad
+1,Wireless,8,117,Good
+1,LCD,15,16,Bad
+1,Keyboard_NBK,17,116,Good
+2,Keyboard_NBK,17,131,Good
+12,MOUSE,8,108,Good
+2,Graphic Card,19,110,Good
+2,Adaptar,13,106,Good
+19,HDD_NB_DT,8,34,Bad
+1,ODM Mechanical,13,12,Bad
+2,CORD,10,117,Good
+12,Wireless,8,149,Good
+1,Cable,13,141,Good
+2,ODM Mechanical,13,25,Bad
+1,ODM Mechanical,13,3,Bad
+19,LCD,15,107,Good
+7,Battery,13,1,Bad
+1,Memory,13,36,Bad
+1,Memory,13,1,Bad
+8,CORD,10,115,Good
+14,Battery,13,126,Good
+2,Adaptar,13,92,Normal
+1,Adaptar,13,127,Good
+3,CORD,10,100,Good
+14,Memory,13,36,Bad
+18,SSD_NB_DT,8,125,Good
+1,Adaptar,13,138,Good
+2,CORD,10,146,Good
+1,Network Card,13,114,Good
+2,Adaptar,13,62,Normal
+1,Keyboard_NBK,17,141,Good
+1,ODD Mechanical,13,100,Good
+9,Memory,13,9,Bad
+8,ODD Mechanical,13,113,Good
+1,Adaptar,13,180,Fair
+7,ODM Mechanical,13,140,Good
+8,ODM Mechanical,13,148,Good
+1,ODM Mechanical,13,111,Good
+2,HDD_NB_DT,8,47,Bad
+2,Wireless,8,20,Bad
+2,Graphic Card,19,141,Good
+14,Carrying case,13,145,Good
+14,ODM Mechanical,13,13,Bad
+18,Graphic Card,19,120,Good
+5,Memory,13,87,Normal
+1,Memory,13,34,Bad
+2,CORD,10,136,Good
+2,SSD_NB_DT,8,8,Bad
+19,Keyboard_DT,17,108,Good
+12,ODM Mechanical,13,133,Good
+1,Graphic Card,19,125,Good
+2,SSD_NB_DT,8,48,Bad
+5,Memory,13,91,Normal
+1,Network Card,13,104,Good
+1,Cable,13,119,Good
+11,Wireless,8,130,Good
+2,Adaptar,13,132,Good
+1,ODM Mechanical,13,143,Good
+9,ODD Mechanical,13,111,Good
+1,ODD Mechanical,13,116,Good
+1,Adaptar,13,195,Fair
+2,CORD,10,111,Good
+1,CORD,10,107,Good
+2,Graphic Card,19,119,Good
+1,SSD_NB_DT,8,122,Good
+1,Memory,13,127,Good
+1,CORD,10,122,Good
+8,Wireless,8,14,Bad
+2,Speaker,18,6,Bad
+3,Battery,13,138,Good
+1,Network Card,13,109,Good
+8,LCD,15,15,Bad
+1,SSD_NB_DT,8,106,Good
+13,Battery,13,119,Good
+2,ODM Mechanical,13,102,Good
+1,CORD,10,105,Good
+12,Memory,13,41,Bad
+5,ODD Mechanical,13,81,Normal
+13,ODM Mechanical,13,114,Good
+13,Battery,13,131,Good
+1,SSD_NB_DT,8,119,Good
+2,SSD_NB_DT,8,111,Good
+19,ODM Mechanical,13,120,Good
+1,ODM Mechanical,13,90,Normal
+2,Keyboard_NBK,17,127,Good
+2,Keyboard_NBK,17,127,Good
+9,MOUSE,8,127,Good
+13,CORD,10,136,Good
+2,LCD,15,4,Bad
+1,HDD_NB_DT,8,170,Fair
+12,ODD Mechanical,13,115,Good
+1,Battery,13,36,Bad
+1,Wireless,8,180,Fair
+1,Memory,13,69,Normal
+1,Wireless,8,139,Good
+2,Adaptar,13,113,Good
+13,Memory,13,39,Bad
+2,ODD Mechanical,13,129,Good
+1,ODM Mechanical,13,141,Good
+1,CORD,10,199,Fair
+9,ODM Mechanical,13,138,Good
+14,Nic Card,22,136,Good
+2,HDD_NB_DT,8,123,Good
+1,ODD,13,43,Bad
+2,CORD,10,133,Good
+1,MOUSE,8,120,Good
+2,Memory,13,65,Normal
+7,SSD_NB_DT,8,4,Bad
+8,LCD,15,35,Bad
+2,ODD Mechanical,13,26,Bad
+5,ODD,13,69,Normal
+12,HDD_NB_DT,8,92,Normal
+1,Keyboard_NBK,17,110,Good
+2,CORD,10,107,Good
+1,ODD,13,24,Bad
+14,CORD,10,109,Good
+2,Keyboard_NBK,17,103,Good
+2,HDD_NB_DT,8,14,Bad
+19,ODD,13,144,Good
+2,Battery,13,48,Bad
+2,ODD,13,4,Bad
+8,Memory,13,44,Bad
+7,CORD,10,116,Good
+1,Docking,8,145,Good
+2,CORD,10,112,Good
+19,SSD_NB_DT,8,24,Bad
+1,ODM Mechanical,13,198,Fair
+3,ODM Mechanical,13,146,Good
+19,ODD,13,105,Good
+1,ODD,13,133,Good
+2,Memory,13,83,Normal
+1,Adaptar,13,55,Normal
+18,Graphic Card,19,119,Good
+19,CORD,10,125,Good
+14,CORD,10,115,Good
+2,Memory,13,4,Bad
+2,CORD,10,139,Good
+1,Docking,8,137,Good
+7,MOUSE,8,131,Good
+2,ODD,13,86,Normal
+13,LCD,15,33,Bad
+1,HDD_NB_DT,8,138,Good
+1,CORD,10,60,Normal
+2,Keyboard_NBK,17,155,Fair
+11,Graphic Card,19,148,Good
+7,CORD,10,110,Good
+19,Keyboard_DT,17,145,Good
+1,Adaptar,13,148,Good
+2,Adaptar,13,109,Good
+1,Memory,13,187,Fair
+1,ODM Mechanical,13,154,Fair
+2,Keyboard_NBK,17,122,Good
+5,ODD Mechanical,13,77,Normal
+18,HDD_NB_DT,8,136,Good
+2,Battery,13,33,Bad
+2,CORD,10,132,Good
+2,ODM Mechanical,13,139,Good
+7,CORD,10,114,Good
+2,Memory,13,42,Bad
+4,Graphic Card,19,7,Bad
+2,ODD,13,18,Bad
+2,Wireless,8,27,Bad
+2,Battery,13,44,Bad
+8,LCD,15,40,Bad
+2,ODD Mechanical,13,143,Good
+2,Memory,13,38,Bad
+13,Memory,13,6,Bad
+14,ODM Mechanical,13,21,Bad
+2,CORD,10,110,Good
+2,Battery,13,98,Normal
+1,ODD,13,122,Good
+2,Wireless,8,21,Bad
+2,CORD,10,148,Good
+11,ODD Mechanical,13,144,Good
+1,Network Card,13,138,Good
+2,Graphic Card,19,140,Good
+13,CORD,10,132,Good
+2,ODM Mechanical,13,198,Fair
+1,LCD,15,124,Good
+14,Wireless,8,43,Bad
+2,ODD Mechanical,13,131,Good
+9,LCD,15,133,Good
+9,ODD Mechanical,13,110,Good
+2,Keyboard_NBK,17,114,Good
+1,Graphic Card,19,146,Good
+8,ODD Mechanical,13,142,Good
+2,Keyboard_NBK,17,128,Good
+12,CORD,10,127,Good
+19,CORD,10,111,Good
+1,Keyboard_NBK,17,84,Normal
+14,HDD_NB_DT,8,105,Good
+5,Memory,13,136,Good
+2,ODD,13,20,Bad
+14,ODM Mechanical,13,42,Bad
+1,Memory,13,51,Normal
+19,Keyboard_NBK,17,140,Good
+2,SSD_NB_DT,8,109,Good
+7,ODM Mechanical,13,143,Good
+2,ODM Mechanical,13,147,Good
+12,Memory,13,18,Bad
+1,SSD_NB_DT,8,116,Good
+1,Wireless,8,91,Normal
+9,ODM Mechanical,13,136,Good
+9,HDD_NB_DT,8,33,Bad
+8,CORD,10,133,Good
+1,Adaptar,13,103,Good
+2,CORD,10,111,Good
+18,Graphic Card,19,110,Good
+1,ODM Mechanical,13,49,Bad
+14,ODD,13,146,Good
+12,Wireless,8,30,Bad
+12,Memory,13,24,Bad
+2,CORD,10,129,Good
+2,Wireless,8,16,Bad
+10,Controller Card,22,128,Good
+13,MOUSE,8,123,Good
+8,Keyboard_DT,17,114,Good
+5,ODD Mechanical,13,80,Normal
+7,Keyboard_DT,17,103,Good
+14,Battery,13,39,Bad
+1,Memory,13,2,Bad
+2,Keyboard_NBK,17,148,Good
+1,Graphic Card,19,101,Good
+19,MOUSE,8,106,Good
+8,Adaptar,13,131,Good
+1,Nic Card,22,106,Good
+2,ODM Mechanical,13,37,Bad
+1,Memory,13,4,Bad
+7,SSD_NB_DT,8,45,Bad
+1,Wireless,8,101,Good
+1,Carrying case,13,103,Good
+8,CORD,10,104,Good
+2,HDD_NB_DT,8,46,Bad
+14,Nic Card,22,138,Good
+1,ODD Mechanical,13,134,Good
+14,CORD,10,144,Good
+1,Wireless,8,100,Good
+9,ODD Mechanical,13,123,Good
+11,Nic Card,22,108,Good
+1,HDD_NB_DT,8,135,Good
+2,Cable,13,132,Good
+1,Battery,13,121,Good
+2,Memory,13,6,Bad
